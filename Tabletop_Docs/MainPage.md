@@ -1,7 +1,11 @@
 ---
 tags:
   - Main-pages
-cssclasses:
+cssclasses: 
+aliases:
+  - main
+  - core
+  - docs
 ---
 # //**Shattered front**//
 ```
@@ -15,6 +19,7 @@ factions with different goals|ideals and unique playstyles
 main goal of this project to exist as foundation as open source modular tabletop game
 ``` 
 
+to do board -> [[Board]]
 # \Rule Set\
 - [[army size + point]]
 - [[army assembly and positioning]]
@@ -37,11 +42,11 @@ main goal of this project to exist as foundation as open source modular tabletop
 # [[Unity]]
 ```
 izolated nation seeking perfection , and order. overseeing every step behind the walls, only use of mechs is in battle and the army isnt using any pilots, they want to overtake the whole planet so they can control everything
-```
+f```
 ### teams :
-- legio I Valens
-- [[legio X Perpetuum]]
-- [[legio XXIV Tersus]]
+- [[I Valens]]
+- [[X Perpetuum]]
+- [[XXIV Tersus]]
 # [[Rusty Nails]]
 ```
 barbaric like post apocaliptic and agressive clan of skilled fighters in self made mechs or tanks covered in scap metals and any stolen technology they usually work in packs where they hunt for stolen goods and honor. winning wars means keeping people in peace

@@ -19,7 +19,8 @@ factions with different goals|ideals and unique playstyles
 main goal of this project to exist as foundation as open source modular tabletop game
 ``` 
 
-to do board -> [[Board]]
+add more everywhere
+
 # \Rule Set\
 - [[army size + point]]
 - [[army assembly and positioning]]
@@ -42,7 +43,7 @@ to do board -> [[Board]]
 # [[Unity]]
 ```
 izolated nation seeking perfection , and order. overseeing every step behind the walls, only use of mechs is in battle and the army isnt using any pilots, they want to overtake the whole planet so they can control everything
-f```
+```
 ### teams :
 - [[I Valens]]
 - [[X Perpetuum]]
@@ -55,6 +56,7 @@ barbaric like post apocaliptic and agressive clan of skilled fighters in self ma
 ### clans :
 - [[chem-punks]] 
 - [[chompers]]
+- [[Iron Eruptors]]
 # [[sons of]]
 ```
 group of mercenaries fighting for pride , being admired, colosseum champions , mechs wearing all sorts of decorations , in bronze color , the factions objective is planet domination 

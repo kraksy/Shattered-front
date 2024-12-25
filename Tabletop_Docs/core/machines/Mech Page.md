@@ -3,8 +3,10 @@ tags:
   - Main-pages
 ---
 ---
-# Mech list
+# Mech Page
+
+
 
 | name     | pilot         | cost |
 | -------- | ------------- | ---- |
-| [[alik]] | [[dr.mayham]] | 50   |
+| [[alik]] | [[dr.mayham]] | 200  |

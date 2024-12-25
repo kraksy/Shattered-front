@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Tom's Theme"
+  "cssTheme": "Tom's Theme",
+  "enabledCssSnippets": [
+    "table-format-class"
+  ]
 }

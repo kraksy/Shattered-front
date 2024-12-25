@@ -26,6 +26,7 @@ add more everywhere
 - [[army assembly and positioning]]
 - [[battle points]]
 - [[Hit System]]
+- [[Move System]]
 - [[game-modes]]
 - [[how to play]]
 - [[examples]]
@@ -57,9 +58,11 @@ barbaric like post apocaliptic and agressive clan of skilled fighters in self ma
 - [[chem-punks]] 
 - [[chompers]]
 - [[Iron Eruptors]]
-# [[sons of]]
+# [[Sons of Bellator]]
 ```
 group of mercenaries fighting for pride , being admired, colosseum champions , mechs wearing all sorts of decorations , in bronze color , the factions objective is planet domination 
 ```
 ### branches :
 - [[milites-cerberi]]
+- x
+- x

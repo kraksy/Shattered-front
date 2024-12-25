@@ -2,5 +2,6 @@
   "cssTheme": "Tom's Theme",
   "enabledCssSnippets": [
     "table-format-class"
-  ]
+  ],
+  "accentColor": "#383838"
 }

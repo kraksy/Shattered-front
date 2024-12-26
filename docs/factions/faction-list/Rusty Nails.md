@@ -4,7 +4,7 @@ tags:
 ---
 ---
 # Rusty nails
-![[MainPage#^e66c06]]
+![[Main-Page#^e66c06]]
 
 - [[scavenger economy]]
 ### squads :

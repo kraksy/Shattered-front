@@ -2,6 +2,8 @@
 tags:
   - gamemodes
   - rules
+aliases:
+  - ctp
 ---
 ---
 
@@ -19,6 +21,6 @@ tags:
 
 - objectives can have special conditions (e.g., require a specific type of unit to capture).
 
-**battle points payout:**
+## **battle points payout:**
 
-![[battle points^]]
+![[battle points#^5e704c]]

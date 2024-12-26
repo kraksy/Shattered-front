@@ -1,11 +1,10 @@
 ---
 tags:
-  - mechs
   - statblock
-cssclasses:
+cssclasses: []
 ---
 ---
-# alik
+# {{title}}
 
 ---
 
@@ -15,7 +14,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-name : alik 
+name : 
 
 --- column-break ---
 

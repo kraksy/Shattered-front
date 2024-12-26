@@ -9,8 +9,6 @@ cssclasses: []
 
 this is a page that compiles all of the data to one , so one can just look at this , and pick units for his army
 
-- [[Veterancy System]]
-
 ## leader units
 
 | name     | pilot         | weapon-list | ability-list | status-efects | faction                        | cost |
@@ -24,9 +22,11 @@ this is a page that compiles all of the data to one , so one can just look at th
 |      |       |             |              |               |         |      |
 
 # small units
-| name | pilot | weapon-list | ability-list | status-efects | faction | cost |
-| ---- | ----- | ----------- | ------------ | ------------- | ------- | ---- |
-|      |       |             |              |               |         |      |
+| name                   | pilot                  | category | weapon-list         | ability-list         | status-efects | faction   | cost |
+| ---------------------- | ---------------------- | -------- | ------------------- | -------------------- | ------------- | --------- | ---- |
+| [[extermination tank]] | [[devoted pilot]] crew | [[tank]] | [[120 mm canon]]    | [[second shot]]      | ---           | [[Unity]] | 10   |
+| [[cleanser artillery]] | [[devoted pilot]] crew | [[tank]] | [[Artillery canon]] | [[death from above]] | ---           | [[Unity]] | 20   |
+|                        |                        |          |                     |                      |               |           |      |
 
 
 

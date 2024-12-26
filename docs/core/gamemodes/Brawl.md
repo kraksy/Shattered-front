@@ -2,6 +2,8 @@
 tags:
   - gamemodes
   - rules
+aliases:
+  - ffa
 ---
 ---
 

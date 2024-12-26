@@ -1,13 +1,14 @@
 ---
 tags:
   - Main-pages
-cssclasses: 
+cssclasses: []
 aliases:
   - main
   - core
   - docs
 ---
-# //**Shattered front**//
+# ░▒▓|**Shattered front**|▓▒░
+
 ```
 	expandable tabletop war game 
 	
@@ -15,12 +16,13 @@ aliases:
 	map objects mechs or tanks
 	
 	factions with different goals|ideals and unique playstyles
-	main goal of this project to exist as foundation as open source modulartabletop game
+	main goal of this project to stand as 
+	foundation to open source modular tabletop game
 ``` 
 
-# \Rule Set\
+# ░▒▓|Rule Set|▓▒░
 
-> [!NOTE] description
+> [!danger] info
 > just a sprinkle of mechanics that moves the gameplay from bland to fun
 
 - [[army size + point]]
@@ -36,9 +38,9 @@ aliases:
 - [[how to play]]
 - [[examples]]
 
-# \path to everything\
+# ░▒▓|Path To Everything|▓▒░
 
-> [!note] description
+> [!danger] info
 > collection of all units and everything related to them
 
 - [[Units page]]
@@ -47,13 +49,15 @@ aliases:
 - [[Status Effect Page]]
 - [[Pilot Page]]
 
-# \FACTIONS\
+# ░▒▓|Factions|▓▒░
 
-> [!note] description
+> [!danger] info
 > for player to pick what style of units he really wants to play
 ## [[Unity]]
 ```
-izolated nation seeking perfection , and order. overseeing every step behind the walls, only use of mechs is in battle and the army isnt using any pilots, they want to overtake the whole planet so they can control everything
+	izolated nation seeking perfection , and order. overseeing every step behind the walls,
+	only use of mechs is in battle and the army isnt using any pilots, they want to overtake the 
+	whole planet so they can control everything
 ```
 ### teams :
 - [[I Valens]]
@@ -61,7 +65,9 @@ izolated nation seeking perfection , and order. overseeing every step behind the
 - [[XXIV Tersus]]
 ## [[Rusty Nails]]
 ```
-barbaric like post apocaliptic and agressive clan of skilled fighters in self made mechs or tanks covered in scap metals and any stolen technology they usually work in packs where they hunt for stolen goods and honor. winning wars means keeping people in peace
+	barbaric like post apocaliptic and agressive clan of skilled fighters in self made mechs or 
+	tanks covered in scap metals and any stolen technology they usually work in packs where 
+	they hunt for stolen goods and honor. winning wars means keeping people in peace
 ```
 ^e66c06
 ### clans :
@@ -78,9 +84,9 @@ group of mercenaries fighting for pride , being admired, colosseum champions , m
 - x
 ## [[]]
 
-# \LORE\
+# ░▒▓|Lore|▓▒░
 
-> [!NOTE] description
+> [!danger] info
 > this is the messy chunks of text that should explain why things exist like that 
 ## [[Lore Codex I]]
 

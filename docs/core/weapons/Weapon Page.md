@@ -32,7 +32,7 @@ tags:
 | [[Artillery canon]]      | 50cm  | 3d6    | [[death from above]] | ---           |
 | [[Artillery canon(gas)]] | 50cm  | 3d6    | [[death from above]] | [[gas]]       |
 | railgun(gas)             |       |        | [[piercer]]          | [[gas]]       |
-| cannon                   | 20cm  | 6d6    | [[second shot]]     | ---           |
+| [[120 mm canon]]         | 20cm  | 6d6    | [[second shot]]      | ---           |
 |                          |       |        |                      |               |
 
 ### melee weapons

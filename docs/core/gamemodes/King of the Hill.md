@@ -17,8 +17,5 @@ aliases:
 
 **battle points payout:**
 
-| type                                    | payout |
-| --------------------------------------- | ------ |
-| holding the hill                        | +2     |
-| killing an enemy while holding the hill | +3     |
+![[battle points#^6036d4]]
 

@@ -2,6 +2,8 @@
 tags:
   - gamemodes
   - rules
+aliases:
+  - payload
 ---
 ---
 
@@ -21,3 +23,7 @@ tags:
 
 - escort units typically have limited movement and require protection.
 - defenders can set traps or block paths strategically.
+
+## battle points payout
+
+![[battle points#^b24e2d]]

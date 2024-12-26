@@ -4,3 +4,10 @@ tags:
 ---
 ---
 # Pilot Page
+
+## **list of pilots**:
+
+| name          | description |
+| ------------- | ----------- |
+| [[dr.mayham]] |             |
+

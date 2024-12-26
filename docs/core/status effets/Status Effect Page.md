@@ -20,3 +20,10 @@ tags:
 | [[fear]]        | stun   | 2 turns  | ---        | ---                           |
 | [[psychadelic]] | stun   | 4 turns  | ---        | ---                           |
 | [[acid]]        | damage | 2 turns  | x0.5       | 1/3 of damage source per turn |
+
+# Environmental effects
+
+| name    | effect      | duration      |
+| ------- | ----------- | ------------- |
+| [[mud]] | [[slownes]] | while on tile |
+|         |             |               |

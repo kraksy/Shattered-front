@@ -1,12 +1,7 @@
 ---
 tags:
-  - mechs
   - statblock
 cssclasses:
----
----
-# alik
-
 ---
 
 --- start-multi-column: ID_p7ac
@@ -15,7 +10,7 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-name : alik 
+name : 
 
 --- column-break ---
 

@@ -6,7 +6,10 @@ tags:
 ---
 # game-modes
 
-| name               | alias              |
-| ------------------ | ------------------ |
-| [[brawl]]          | ffa                |
-| [[attack defence]] | ffa with objective |
+| name                  | alias              |
+| --------------------- | ------------------ |
+| [[Brawl]]             | ffa                |
+| [[Attack Defence]]    | ffa with objective |
+| [[Capture The Point]] | ctp                |
+| [[King of the Hill]]  | koth               |
+| [[Escort Mission]]    | payload            |

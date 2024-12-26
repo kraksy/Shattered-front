@@ -4,10 +4,12 @@ tags:
 cssclasses: []
 ---
 ---
-
 # Units page
 
+
 this is a page that compiles all of the data to one , so one can just look at this , and pick units for his army
+
+- [[Veterancy System]]
 
 ## leader units
 
@@ -25,3 +27,6 @@ this is a page that compiles all of the data to one , so one can just look at th
 | name | pilot | weapon-list | ability-list | status-efects | faction | cost |
 | ---- | ----- | ----------- | ------------ | ------------- | ------- | ---- |
 |      |       |             |              |               |         |      |
+
+
+

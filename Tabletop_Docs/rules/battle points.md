@@ -14,7 +14,7 @@ tags:
 - [[battle points]] depends on [[game-modes]] or player decision how to play the game.
 
 ## earning battle points
-#### [[brawl]]
+#### [[Brawl]]
 
 | type                  | payout |
 | --------------------- | ------ |
@@ -22,7 +22,7 @@ tags:
 | killing enemies       | +3     |
 | killing captain enemy | +5     |
 | killing key enemies   | +5     |
-#### [[attack defence]]
+#### [[Attack Defence]]
 
 | type                  | payout |
 | --------------------- | ------ |

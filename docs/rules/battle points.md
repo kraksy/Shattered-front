@@ -21,7 +21,9 @@ tags:
 | dealing damage        | +1     |
 | killing enemies       | +3     |
 | killing captain enemy | +5     |
-| killing key enemies   | +5     |
+
+^cbd4d3
+
 #### [[Attack Defence]]
 
 | type                  | payout |
@@ -30,7 +32,18 @@ tags:
 | killing enemies       | +3     |
 | killing captain enemy | +5     |
 | killing key enemies   | +5     |
-#### 
+
+^49cfdc
+
+#### [[Capture The Point]]
+
+
+
+#### [[Escort Mission]]
+
+#### [[King of the Hill]]
+
+
 
 
 

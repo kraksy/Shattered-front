@@ -4,28 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "49d7c891e4d568d9",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "ea9d10ce4dc622dd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "core/units info/Units page.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Board"
+              "icon": "lucide-file",
+              "title": "Units page"
             }
           }
         ]
@@ -100,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainPage.md",
+                "file": "rules/Fog of War Mechanic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MainPage"
+              "title": "Fog of War Mechanic"
             }
           },
           {
@@ -159,18 +152,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MainPage.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of MainPage"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 635.5
+    "width": 635.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,43 +177,43 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ea9d10ce4dc622dd",
   "lastOpenFiles": [
+    "core/mechs/Mech Page.md",
+    "core/units info/Units page.md",
     "MainPage.md",
-    "rules/Hit System.md",
-    "factions/faction-list/Unity.md",
-    "factions/faction-list/Rusty Nails.md",
-    "factions/faction-list/Sons of Bellator.md",
-    "factions/squads/milites-cerberi.md",
-    "factions/squads/chem-punks.md",
+    "factions/Factions.md",
+    "factions/Faction gimmicks/overclocking mechanic.md",
+    "factions/Faction gimmicks/scavenger economy.md",
+    "factions/Faction gimmicks/glory mechanic.md",
     "factions/Faction gimmicks/chemical instability.md",
+    "rules/Fog of War Mechanic.md",
+    "rules/Resource Points.md",
+    "rules/army assembly and positioning.md",
+    "core/gamemodes/Escort Mission.md",
+    "core/gamemodes/Capture The Point.md",
+    "rules/battle points.md",
+    "core/gamemodes/King of the Hill.md",
     "core/gamemodes/Attack Defence.md",
     "core/gamemodes/Brawl.md",
-    "core/gamemodes/Capture The Point.md",
-    "core/gamemodes/Escort Mission.md",
-    "core/gamemodes/King of the Hill.md",
+    "rules/Veterancy System.md",
     "rules/game-modes.md",
     "rules/army size + point.md",
-    "rules/army assembly and positioning.md",
-    "rules/Fog of War Mechanic.md",
-    "core/weapons/Weapon Page.md",
-    "factions/Faction gimmicks/glory mechanic.md",
-    "rules/map creation.md",
-    "rules/Resource Points.md",
     "rules/Random Events.md",
-    "core/gamemodes/Untitled.md",
-    "rules/battle points.md",
+    "Board.md",
+    "rules/Hit System.md",
+    "core/status effets/Status Effect Page.md",
+    "lore/Lore Codex I.md",
+    "rules/map creation.md",
     "core/gamemodes",
     "rules/Untitled",
-    "core/abilities/Ability Page.md",
-    "core/status effets/Status Effect Page.md",
     "factions/Faction gimmicks",
     "core/units info",
     "lore/AI help",
     "core/weapons/list",
     "core/status effets/list",
     "core/pilots/list",
-    "core/machines/list",
+    "core/mechs/list",
     "core/abilities/list"
   ]
 }

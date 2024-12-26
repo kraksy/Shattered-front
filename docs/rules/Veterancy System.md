@@ -1,14 +1,13 @@
 ---
 tags:
+  - rules
 ---
 ---
-
-i honestly feel like this could be great
 
 ### overview:
 
 - units gain experience after surviving battles.
-
+- after killing specific number of units.
 ### how it works:
 
 - survive 3 battles to gain 1 perk.

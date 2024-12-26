@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - rules
 ---
 ---
 
@@ -14,9 +15,10 @@ tags: []
    - destroying enemy units
 
 2. spend RP on:
-   - reinforcements
+   - [[reinforcements]]
    - abilities
 
 ## optional rules:
 
 - unused RP expires at the end of the game.
+- if used in some sort of campaign they can be saved.

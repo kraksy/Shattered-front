@@ -1,0 +1,69 @@
+site_name: Shattered Front
+theme:
+  name: readthedocs  # You can change this to another theme if needed
+nav:
+  - Home: MainPage.md
+  - Board: Board.md
+  - Core:
+      - Abilities:
+          - Overview: core/abilities/Ability Page.md
+          - List:
+              - Death from Above: core/abilities/list/death from above.md
+              - Piercer: core/abilities/list/piercer.md
+              - Second Shot: core/abilities/list/second shot.md
+      - Gamemodes:
+          - Attack Defence: core/gamemodes/Attack Defence.md
+          - Brawl: core/gamemodes/Brawl.md
+          - Capture The Point: core/gamemodes/Capture The Point.md
+          - Escort Mission: core/gamemodes/Escort Mission.md
+          - King of the Hill: core/gamemodes/King of the Hill.md
+      - Machines:
+          - Overview: core/machines/Mech Page.md
+          - List:
+              - Alik: core/machines/list/alik.md
+      - Pilots:
+          - Overview: core/pilots/Pilot Page.md
+          - List:
+              - Dr. Mayham: core/pilots/list/dr.mayham.md
+      - Status Effects:
+          - Overview: core/status effets/Status Effect Page.md
+          - List:
+              - Acid: core/status effets/list/acid.md
+              - Gas: core/status effets/list/gas.md
+      - Units Info: core/units info/Units page.md
+      - Weapons:
+          - Overview: core/weapons/Weapon Page.md
+          - List:
+              - Artillery Canon: core/weapons/list/Artillery canon.md
+              - Knife: core/weapons/list/knife.md
+              - Railgun: core/weapons/list/railgun.md
+  - Factions:
+      - Overview: factions/Factions.md
+      - Faction Gimmicks:
+          - Chemical Instability: factions/Faction gimmicks/chemical instability.md
+          - Glory Mechanic: factions/Faction gimmicks/glory mechanic.md
+          - Overclocking Mechanic: factions/Faction gimmicks/overclocking mechanic.md
+          - Scavenger Economy: factions/Faction gimmicks/scavenger economy.md
+      - Faction List:
+          - Rusty Nails: factions/faction-list/Rusty Nails.md
+          - Sons of Bellator: factions/faction-list/Sons of Bellator.md
+          - Unity: factions/faction-list/Unity.md
+      - Squads:
+          - Chem-Punks: factions/squads/chem-punks.md
+          - Milites Cerberi: factions/squads/milites-cerberi.md
+  - Lore:
+      - Codex I: lore/Lore Codex I.md
+      - AI Help:
+          - AI-Generated Lore for Chem-Punks: lore/AI help/AI generated lore for chem-punks.md
+  - Rules:
+      - Fog of War Mechanic: rules/Fog of War Mechanic.md
+      - Hit System: rules/Hit System.md
+      - Random Events: rules/Random Events.md
+      - Resource Points: rules/Resource Points.md
+      - Veterancy System: rules/Veterancy System.md
+      - Army Assembly and Positioning: rules/army assembly and positioning.md
+      - Army Size and Points: rules/army size + point.md
+      - Battle Points: rules/battle points.md
+      - Game Modes: rules/game-modes.md
+      - Map Creation: rules/map creation.md
+

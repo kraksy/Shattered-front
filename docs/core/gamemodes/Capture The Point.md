@@ -18,3 +18,7 @@ tags:
 **special rules:**
 
 - objectives can have special conditions (e.g., require a specific type of unit to capture).
+
+**battle points payout:**
+
+![[battle points^]]

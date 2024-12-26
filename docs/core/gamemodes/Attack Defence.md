@@ -20,7 +20,4 @@ tags:
 
 **battle points payout:**
 
-- dealing damage: +1
-- killing enemies: +3
-- killing captain enemy: +5
-- killing key enemies: +5
+![[battle points#^49cfdc]]

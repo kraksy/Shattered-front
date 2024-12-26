@@ -7,21 +7,18 @@ tags:
 
 # Fog of War
 
-**comment**: could be a nice addition 
-
 ## overview
 
-- units outside line of sight remain hidden from the opponent.
+- units outside line of sight remain hidden from the opponents units , and cannot be attacked.
 
 ## how it should works:
 
 1. line of sight is determined by unit positioning and terrain.
-2. hidden units are marked with a hidden token.
-3. units with "recon" abilities can reveal hidden units.
+2. units with "recon" abilities can reveal hidden units even if they are behind terrain.
 
 ## abilities example:
 
-- **recon drone:** reveal all hidden units within a 20cm radius.
+- **[[recon drone]]:** reveal all hidden units within a 20cm radius.
 
 ## advantages:
 

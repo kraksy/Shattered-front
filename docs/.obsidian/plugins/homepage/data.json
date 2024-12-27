@@ -1,0 +1,32 @@
+{
+  "version": 4,
+  "homepages": {
+    "Main Homepage": {
+      "value": "Main-Page",
+      "kind": "File",
+      "openOnStartup": true,
+      "openMode": "Replace all open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Reading view",
+      "revertView": true,
+      "openWhenEmpty": false,
+      "refreshDataview": false,
+      "autoCreate": false,
+      "autoScroll": false,
+      "pin": true,
+      "commands": [
+        {
+          "id": "workspace:split-vertical",
+          "period": "Both"
+        },
+        {
+          "id": "graph:open",
+          "period": "Both"
+        }
+      ],
+      "alwaysApply": false,
+      "hideReleaseNotes": false
+    }
+  },
+  "separateMobile": false
+}

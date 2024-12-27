@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Tom's Theme",
+  "enabledCssSnippets": [
+    "table-format-class"
+  ],
+  "accentColor": "#383838",
+  "interfaceFontFamily": "Hack Nerd Font Mono",
+  "textFontFamily": "Hack",
+  "baseFontSize": 16
+}

@@ -25,19 +25,24 @@ aliases:
 > [!danger] info
 > just a sprinkle of mechanics that moves the gameplay from bland to fun
 
+## gaming rules
 - [[army size + point]]
 - [[army assembly and positioning]]
 - [[Hit System]]
 - [[Move System]]
+- [[squad rules]]
 - [[game-modes]]
 	- [[battle points]]
 	- [[Resource Points]]
 	- [[Fog of War Mechanic]]
 	- [[Random Events]]
 	- [[Veterancy System]]
+	- [[]]
 - [[how to play]]
 - [[examples]]
-
+## ruleset for new units
+- [[unit Categories]]
+- [[sizing]]
 # ░▒▓|Path To Everything|▓▒░
 
 > [!danger] info
@@ -56,9 +61,11 @@ aliases:
 ## [[Unity]]
 ```
 	izolated nation seeking perfection , and order. overseeing every step behind the walls,
-	only use of mechs is in battle and the army isnt using any pilots, they want to overtake the 
-	whole planet so they can control everything
+	only use of mechs is in battle and the army isnt using any pilots, they want to overtake 
+	the whole planet so they can control everything
 ```
+
+^f1791e
 ### teams :
 - [[I Valens]]
 - [[X Perpetuum]]

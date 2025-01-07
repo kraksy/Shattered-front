@@ -18,6 +18,3 @@ gamemode adds complexity for the players experience and spits some fun mechanics
 | [[Capture The Point]] | ctp                |
 | [[King of the Hill]]  | koth               |
 | [[Escort Mission]]    | payload            |
-
-# [[brawl]]
-

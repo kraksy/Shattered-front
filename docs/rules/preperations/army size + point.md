@@ -13,9 +13,9 @@ if you are unsure of how big of armies to play
 you can choose of these three army size presets that are balanced for base game of shattered front
 
 ```
-	small army - 250 points
-	medium army - 500 points
-	large army - 1000 points
+	small army - 600 points
+	medium army - 1200 points
+	large army - 1200+ points
 ```
 
 small army is really the smallest you can go in terms of size of the units 

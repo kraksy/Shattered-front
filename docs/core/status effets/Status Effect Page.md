@@ -23,7 +23,9 @@ tags:
 
 # Environmental effects
 
-| name    | effect      | duration      |
-| ------- | ----------- | ------------- |
-| [[mud]] | [[slownes]] | while on tile |
-|         |             |               |
+| name      | effect      | duration      | exception |
+| --------- | ----------- | ------------- | --------- |
+| [[mud]]   | [[slownes]] | while on tile |           |
+| [[water]] |             |               |           |
+| [[pit]]   |             |               |           |
+|           |             |               |           |

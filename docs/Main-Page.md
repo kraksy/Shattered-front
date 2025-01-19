@@ -1,11 +1,12 @@
 ---
 tags:
   - Main-pages
-cssclasses: []
+cssclasses: 
 aliases:
   - main
   - core
   - docs
+publish: "true"
 ---
 # ░▒▓|**Shattered front**|▓▒░
 

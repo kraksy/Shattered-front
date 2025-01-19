@@ -2,6 +2,7 @@
 tags:
   - rules
   - map-mechanics
+publish: "true"
 ---
 ---
 

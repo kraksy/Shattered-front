@@ -2,6 +2,7 @@
 tags:
   - Main-pages
   - gamemodes
+publish: "true"
 ---
 ---
 # game-modes

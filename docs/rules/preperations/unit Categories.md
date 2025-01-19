@@ -1,6 +1,7 @@
 ---
 tags:
   - rules
+publish: "true"
 ---
 ---
 # unit Categories

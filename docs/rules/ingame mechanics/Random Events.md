@@ -2,6 +2,7 @@
 tags:
   - rules
   - status-effects
+publish: "true"
 ---
 ---
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[docs]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>docs</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 19 Jan 2025 03:00:18 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 19 Jan 2025 03:00:07 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[death from above]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[docs]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>docs</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 19 Jan 2025 21:21:19 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 19 Jan 2025 21:21:10 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[death from above]]></title><description><![CDATA[ 
  ]]></description><link>core\abilities\list\death-from-above.html</link><guid isPermaLink="false">core/abilities/list/death from above.md</guid><pubDate>Sun, 19 Jan 2025 02:41:39 GMT</pubDate></item><item><title><![CDATA[piercer]]></title><description><![CDATA[ 
  ]]></description><link>core\abilities\list\piercer.html</link><guid isPermaLink="false">core/abilities/list/piercer.md</guid><pubDate>Sun, 19 Jan 2025 02:41:39 GMT</pubDate></item><item><title><![CDATA[second shot]]></title><description><![CDATA[ 
  ]]></description><link>core\abilities\list\second-shot.html</link><guid isPermaLink="false">core/abilities/list/second shot.md</guid><pubDate>Fri, 27 Dec 2024 18:06:31 GMT</pubDate></item><item><title><![CDATA[Ability list]]></title><description><![CDATA[ 
@@ -123,7 +123,7 @@ this is a page that compiles all of the data to one , so one can just look at th
 <br><br>
 <br>salvage tokens expire if not picked up within 2 rounds.
 ]]></description><link>factions\faction-gimmicks\scavenger-economy.html</link><guid isPermaLink="false">factions/Faction gimmicks/scavenger economy.md</guid><pubDate>Fri, 27 Dec 2024 18:11:36 GMT</pubDate></item><item><title><![CDATA[Rusty nails]]></title><description><![CDATA[ 
- <br><br><br><br><br>
+ <br><br><br>“Main-Page#^e66c06” is not created yet. Click to create.<br>
 <br><a data-href="scavenger economy" href="\factions\faction-gimmicks\scavenger-economy.html" class="internal-link" target="_self" rel="noopener nofollow">scavenger economy</a>
 <br><br>
 <br><a data-href="chem-punks" href="\factions\squads\chem-punks.html" class="internal-link" target="_self" rel="noopener nofollow">chem-punks</a>
@@ -132,7 +132,7 @@ this is a page that compiles all of the data to one , so one can just look at th
  <br><br><br>
 <br><a data-href="glory mechanic" href="\factions\faction-gimmicks\glory-mechanic.html" class="internal-link" target="_self" rel="noopener nofollow">glory mechanic</a>
 ]]></description><link>factions\faction-list\sons-of-bellator.html</link><guid isPermaLink="false">factions/faction-list/Sons of Bellator.md</guid><pubDate>Sun, 19 Jan 2025 02:41:44 GMT</pubDate></item><item><title><![CDATA[Unity]]></title><description><![CDATA[ 
- <br><br><br><br><br>
+ <br><br><br>“Main-Page#^f1791e” is not created yet. Click to create.<br>
 --- start-multi-column: ID_2cnd<br>Number of Columns: 2
 Largest Column: standard
 <br><br>
@@ -317,8 +317,7 @@ Contents
 Largest Column: standard
 <br>name : <br>--- column-break ---<br>image here<br>--- end-multi-column<br>--- start-multi-column: ID_xy0g<br>Number of Columns: 4
 Largest Column: standard
-<br>weapons : <br>--- column-break ---<br>movement :<br>--- column-break ---<br>armor : <br>--- column-break ---<br>description :<br>--- end-multi-column]]></description><link>templates\base-stat-block-template.html</link><guid isPermaLink="false">templates/base stat block template.md</guid><pubDate>Fri, 27 Dec 2024 18:10:39 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
- <br><a data-href="Main-Page" href="\main-page.html" class="internal-link" target="_self" rel="noopener nofollow">Main-Page</a>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sun, 19 Jan 2025 02:58:52 GMT</pubDate></item><item><title><![CDATA[░▒▓|<strong>Shattered front</strong>|▓▒░]]></title><description><![CDATA[ 
+<br>weapons : <br>--- column-break ---<br>movement :<br>--- column-break ---<br>armor : <br>--- column-break ---<br>description :<br>--- end-multi-column]]></description><link>templates\base-stat-block-template.html</link><guid isPermaLink="false">templates/base stat block template.md</guid><pubDate>Fri, 27 Dec 2024 18:10:39 GMT</pubDate></item><item><title><![CDATA[░▒▓|<strong>Shattered front</strong>|▓▒░]]></title><description><![CDATA[ 
  <br><br>	expandable tabletop war game 
 	
 	d6 Dice simplicity
@@ -334,7 +333,7 @@ just a sprinkle of mechanics that moves the gameplay from bland to fun
 <br><a data-href="army assembly and positioning" href="\rules\preperations\army-assembly-and-positioning.html" class="internal-link" target="_self" rel="noopener nofollow">army assembly and positioning</a>
 <br><a data-href="Hit System" href="\rules\ingame-mechanics\hit-system.html" class="internal-link" target="_self" rel="noopener nofollow">Hit System</a>
 <br><a data-href="Move System" href="\rules\ingame-mechanics\move-system.html" class="internal-link" target="_self" rel="noopener nofollow">Move System</a>
-<br><a data-href="squad rules" href="\squad rules" class="internal-link" target="_self" rel="noopener nofollow">squad rules</a>
+<br><a data-href="Squad rules" href="\Squad rules" class="internal-link" target="_self" rel="noopener nofollow">Squad rules</a>
 <br><a data-href="game-modes" href="\rules\preperations\game-modes.html" class="internal-link" target="_self" rel="noopener nofollow">game-modes</a>
 
 <br><a data-href="battle points" href="\rules\ingame-mechanics\battle-points.html" class="internal-link" target="_self" rel="noopener nofollow">battle points</a>
@@ -345,8 +344,8 @@ just a sprinkle of mechanics that moves the gameplay from bland to fun
 <br>[[]]
 
 
-<br><a data-href="how to play" href="\how to play" class="internal-link" target="_self" rel="noopener nofollow">how to play</a>
-<br><a data-href="examples" href="\examples" class="internal-link" target="_self" rel="noopener nofollow">examples</a>
+<br><a data-href="How to play" href="\How to play" class="internal-link" target="_self" rel="noopener nofollow">How to play</a>
+<br><a data-href="Examples" href="\Examples" class="internal-link" target="_self" rel="noopener nofollow">Examples</a>
 <br><br>
 <br><a data-href="unit Categories" href="\rules\preperations\unit-categories.html" class="internal-link" target="_self" rel="noopener nofollow">unit Categories</a>
 <br><a data-href="sizing" href="\sizing" class="internal-link" target="_self" rel="noopener nofollow">sizing</a>
@@ -363,15 +362,15 @@ for player to pick what style of units he really wants to play
 <br><br>	izolated nation seeking perfection , and order. overseeing every step behind the walls,
 	only use of mechs is in battle and the army isnt using any pilots, they want to overtake 
 	the whole planet so they can control everything
-<br><br><br>
+<br><br>
 <br><a data-href="I Valens" href="\factions\squads\i-valens.html" class="internal-link" target="_self" rel="noopener nofollow">I Valens</a>
 <br><a data-href="X Perpetuum" href="\X Perpetuum" class="internal-link" target="_self" rel="noopener nofollow">X Perpetuum</a>
 <br><a data-href="XXIV Tersus" href="\XXIV Tersus" class="internal-link" target="_self" rel="noopener nofollow">XXIV Tersus</a>
 <br><br>	barbaric like post apocaliptic and agressive clan of skilled fighters in self made mechs or 
 	tanks covered in scap metals and any stolen technology they usually work in packs where 
 	they hunt for stolen goods and honor. winning wars means keeping people in peace
-<br><br><br>
-<br><a data-href="chem-punks" href="\factions\squads\chem-punks.html" class="internal-link" target="_self" rel="noopener nofollow">chem-punks</a> 
+<br><br>
+<br><a data-href="chem-punks" href="\factions\squads\chem-punks.html" class="internal-link" target="_self" rel="noopener nofollow">chem-punks</a>
 <br><a data-href="chompers" href="\chompers" class="internal-link" target="_self" rel="noopener nofollow">chompers</a>
 <br><a data-href="Iron Eruptors" href="\Iron Eruptors" class="internal-link" target="_self" rel="noopener nofollow">Iron Eruptors</a>
 <br><br>group of mercenaries fighting for pride , being admired, colosseum champions , mechs wearing all sorts of decorations , in bronze color , the factions objective is planet domination 
@@ -381,4 +380,4 @@ for player to pick what style of units he really wants to play
 <br>x
 <br><br><br>info
 this is the messy chunks of text that should explain why things exist like that 
-<br>]]></description><link>main-page.html</link><guid isPermaLink="false">Main-Page.md</guid><pubDate>Sun, 19 Jan 2025 00:51:43 GMT</pubDate></item></channel></rss>
+<br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sun, 19 Jan 2025 20:48:21 GMT</pubDate></item></channel></rss>

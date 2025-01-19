@@ -1,0 +1,646 @@
+{
+  "vaultName": "docs",
+  "lastExport": 1737254797401,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "core/abilities/list/death from above.md",
+    "core/abilities/list/piercer.md",
+    "core/abilities/list/second shot.md",
+    "core/abilities/Ability Page.md",
+    "core/gamemodes/Attack Defence.md",
+    "core/gamemodes/Brawl.md",
+    "core/gamemodes/Capture The Point.md",
+    "core/gamemodes/Escort Mission.md",
+    "core/gamemodes/King of the Hill.md",
+    "core/mechs/list/alik.md",
+    "core/mechs/list/autocannon Mech.md",
+    "core/mechs/list/extermination tank.md",
+    "core/mechs/list/railgun mech.md",
+    "core/mechs/Mech Page.md",
+    "core/pilots/list/dr.mayham.md",
+    "core/pilots/Pilot Page.md",
+    "core/status effets/list/acid.md",
+    "core/status effets/list/gas.md",
+    "core/status effets/Status Effect Page.md",
+    "core/units info/Units page.md",
+    "core/weapons/list/Artillery canon.md",
+    "core/weapons/list/assault rifle.md",
+    "core/weapons/list/knife.md",
+    "core/weapons/list/railgun.md",
+    "core/weapons/Weapon Page.md",
+    "factions/Faction gimmicks/chemical instability.md",
+    "factions/Faction gimmicks/glory mechanic.md",
+    "factions/Faction gimmicks/overclocking mechanic.md",
+    "factions/Faction gimmicks/scavenger economy.md",
+    "factions/faction-list/Rusty Nails.md",
+    "factions/faction-list/Sons of Bellator.md",
+    "factions/faction-list/Unity.md",
+    "factions/squads/chem-punks.md",
+    "factions/squads/I Valens.md",
+    "factions/squads/milites-cerberi.md",
+    "factions/Factions.md",
+    "lore/AI help/AI generated lore for chem-punks.md",
+    "lore/Lore Codex I.md",
+    "rules/ingame mechanics/battle points.md",
+    "rules/ingame mechanics/Fog of War Mechanic.md",
+    "rules/ingame mechanics/Hit System.md",
+    "rules/ingame mechanics/Move System.md",
+    "rules/ingame mechanics/Random Events.md",
+    "rules/ingame mechanics/Resource Points.md",
+    "rules/ingame mechanics/Veterancy System.md",
+    "rules/preperations/army assembly and positioning.md",
+    "rules/preperations/army size + point.md",
+    "rules/preperations/game-modes.md",
+    "rules/preperations/map creation.md",
+    "rules/preperations/unit Categories.md",
+    "templates/Base board Template.md",
+    "templates/Base faction Template.md",
+    "templates/Base Note Template.md",
+    "templates/base stat block template.md",
+    "Board.md",
+    "Main-Page.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "core/abilities/list/death from above.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 26,
+      "exportedPath": "core/abilities/list/death-from-above.html",
+      "dependencies": []
+    },
+    "core/abilities/list/piercer.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 26,
+      "exportedPath": "core/abilities/list/piercer.html",
+      "dependencies": []
+    },
+    "core/abilities/list/second shot.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 0,
+      "exportedPath": "core/abilities/list/second-shot.html",
+      "dependencies": []
+    },
+    "core/abilities/Ability Page.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 320,
+      "exportedPath": "core/abilities/ability-page.html",
+      "dependencies": []
+    },
+    "core/gamemodes/Attack Defence.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 600,
+      "exportedPath": "core/gamemodes/attack-defence.html",
+      "dependencies": []
+    },
+    "core/gamemodes/Brawl.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 493,
+      "exportedPath": "core/gamemodes/brawl.html",
+      "dependencies": []
+    },
+    "core/gamemodes/Capture The Point.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 593,
+      "exportedPath": "core/gamemodes/capture-the-point.html",
+      "dependencies": []
+    },
+    "core/gamemodes/Escort Mission.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 695,
+      "exportedPath": "core/gamemodes/escort-mission.html",
+      "dependencies": []
+    },
+    "core/gamemodes/King of the Hill.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 489,
+      "exportedPath": "core/gamemodes/king-of-the-hill.html",
+      "dependencies": []
+    },
+    "core/mechs/list/alik.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 485,
+      "exportedPath": "core/mechs/list/alik.html",
+      "dependencies": []
+    },
+    "core/mechs/list/autocannon Mech.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 383,
+      "exportedPath": "core/mechs/list/autocannon-mech.html",
+      "dependencies": []
+    },
+    "core/mechs/list/extermination tank.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 454,
+      "exportedPath": "core/mechs/list/extermination-tank.html",
+      "dependencies": []
+    },
+    "core/mechs/list/railgun mech.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 0,
+      "exportedPath": "core/mechs/list/railgun-mech.html",
+      "dependencies": []
+    },
+    "core/mechs/Mech Page.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 155,
+      "exportedPath": "core/mechs/mech-page.html",
+      "dependencies": []
+    },
+    "core/pilots/list/dr.mayham.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 651,
+      "exportedPath": "core/pilots/list/dr.mayham.html",
+      "dependencies": []
+    },
+    "core/pilots/Pilot Page.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 168,
+      "exportedPath": "core/pilots/pilot-page.html",
+      "dependencies": []
+    },
+    "core/status effets/list/acid.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 85,
+      "exportedPath": "core/status-effets/list/acid.html",
+      "dependencies": []
+    },
+    "core/status effets/list/gas.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 18,
+      "exportedPath": "core/status-effets/list/gas.html",
+      "dependencies": []
+    },
+    "core/status effets/Status Effect Page.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 1062,
+      "exportedPath": "core/status-effets/status-effect-page.html",
+      "dependencies": []
+    },
+    "core/units info/Units page.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 3547,
+      "exportedPath": "core/units-info/units-page.html",
+      "dependencies": []
+    },
+    "core/weapons/list/Artillery canon.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 25,
+      "exportedPath": "core/weapons/list/artillery-canon.html",
+      "dependencies": []
+    },
+    "core/weapons/list/assault rifle.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 0,
+      "exportedPath": "core/weapons/list/assault-rifle.html",
+      "dependencies": []
+    },
+    "core/weapons/list/knife.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 0,
+      "exportedPath": "core/weapons/list/knife.html",
+      "dependencies": []
+    },
+    "core/weapons/list/railgun.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 25,
+      "exportedPath": "core/weapons/list/railgun.html",
+      "dependencies": []
+    },
+    "core/weapons/Weapon Page.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 2127,
+      "exportedPath": "core/weapons/weapon-page.html",
+      "dependencies": []
+    },
+    "factions/Faction gimmicks/chemical instability.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 389,
+      "exportedPath": "factions/faction-gimmicks/chemical-instability.html",
+      "dependencies": []
+    },
+    "factions/Faction gimmicks/glory mechanic.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 472,
+      "exportedPath": "factions/faction-gimmicks/glory-mechanic.html",
+      "dependencies": []
+    },
+    "factions/Faction gimmicks/overclocking mechanic.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 549,
+      "exportedPath": "factions/faction-gimmicks/overclocking-mechanic.html",
+      "dependencies": []
+    },
+    "factions/Faction gimmicks/scavenger economy.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 636,
+      "exportedPath": "factions/faction-gimmicks/scavenger-economy.html",
+      "dependencies": []
+    },
+    "factions/faction-list/Rusty Nails.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 136,
+      "exportedPath": "factions/faction-list/rusty-nails.html",
+      "dependencies": []
+    },
+    "factions/faction-list/Sons of Bellator.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 70,
+      "exportedPath": "factions/faction-list/sons-of-bellator.html",
+      "dependencies": []
+    },
+    "factions/faction-list/Unity.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 460,
+      "exportedPath": "factions/faction-list/unity.html",
+      "dependencies": []
+    },
+    "factions/squads/chem-punks.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 81,
+      "exportedPath": "factions/squads/chem-punks.html",
+      "dependencies": []
+    },
+    "factions/squads/I Valens.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 37,
+      "exportedPath": "factions/squads/i-valens.html",
+      "dependencies": []
+    },
+    "factions/squads/milites-cerberi.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 59,
+      "exportedPath": "factions/squads/milites-cerberi.html",
+      "dependencies": []
+    },
+    "factions/Factions.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 601,
+      "exportedPath": "factions/factions.html",
+      "dependencies": []
+    },
+    "lore/AI help/AI generated lore for chem-punks.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 5342,
+      "exportedPath": "lore/ai-help/ai-generated-lore-for-chem-punks.html",
+      "dependencies": []
+    },
+    "lore/Lore Codex I.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 119,
+      "exportedPath": "lore/lore-codex-i.html",
+      "dependencies": []
+    },
+    "rules/ingame mechanics/battle points.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 1753,
+      "exportedPath": "rules/ingame-mechanics/battle-points.html",
+      "dependencies": []
+    },
+    "rules/ingame mechanics/Fog of War Mechanic.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 546,
+      "exportedPath": "rules/ingame-mechanics/fog-of-war-mechanic.html",
+      "dependencies": []
+    },
+    "rules/ingame mechanics/Hit System.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 2309,
+      "exportedPath": "rules/ingame-mechanics/hit-system.html",
+      "dependencies": []
+    },
+    "rules/ingame mechanics/Move System.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 838,
+      "exportedPath": "rules/ingame-mechanics/move-system.html",
+      "dependencies": []
+    },
+    "rules/ingame mechanics/Random Events.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 544,
+      "exportedPath": "rules/ingame-mechanics/random-events.html",
+      "dependencies": []
+    },
+    "rules/ingame mechanics/Resource Points.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 382,
+      "exportedPath": "rules/ingame-mechanics/resource-points.html",
+      "dependencies": []
+    },
+    "rules/ingame mechanics/Veterancy System.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 362,
+      "exportedPath": "rules/ingame-mechanics/veterancy-system.html",
+      "dependencies": []
+    },
+    "rules/preperations/army assembly and positioning.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 848,
+      "exportedPath": "rules/preperations/army-assembly-and-positioning.html",
+      "dependencies": []
+    },
+    "rules/preperations/army size + point.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 1018,
+      "exportedPath": "rules/preperations/army-size-+-point.html",
+      "dependencies": []
+    },
+    "rules/preperations/game-modes.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 560,
+      "exportedPath": "rules/preperations/game-modes.html",
+      "dependencies": []
+    },
+    "rules/preperations/map creation.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 188,
+      "exportedPath": "rules/preperations/map-creation.html",
+      "dependencies": []
+    },
+    "rules/preperations/unit Categories.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 237,
+      "exportedPath": "rules/preperations/unit-categories.html",
+      "dependencies": []
+    },
+    "templates/Base board Template.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 86,
+      "exportedPath": "templates/base-board-template.html",
+      "dependencies": []
+    },
+    "templates/Base faction Template.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 75,
+      "exportedPath": "templates/base-faction-template.html",
+      "dependencies": []
+    },
+    "templates/Base Note Template.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 29,
+      "exportedPath": "templates/base-note-template.html",
+      "dependencies": []
+    },
+    "templates/base stat block template.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 478,
+      "exportedPath": "templates/base-stat-block-template.html",
+      "dependencies": []
+    },
+    "Board.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 513,
+      "exportedPath": "board.html",
+      "dependencies": []
+    },
+    "Main-Page.md": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 2299,
+      "exportedPath": "main-page.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 34073,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 4306,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 131018,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 2768,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 439,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1737254797401,
+      "sourceSize": 39,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}

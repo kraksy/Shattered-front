@@ -31102,7 +31102,9 @@ var DEFAULT_SETTINGS = {
   standardColor: "#ADD8E6",
   standardScale: 0.5,
   standardEmbedHeight: 300,
-  autoRotate: false
+  autoRotate: false,
+  orthographicCam: false,
+  autoShowGUI: false
 };
 var ThreeJSPlugin = class extends import_obsidian.Plugin {
   async loadSettings() {
@@ -31139,6 +31141,8 @@ var ThreeJSPlugin = class extends import_obsidian.Plugin {
           let codeBlockType = "\n```3D\n{";
           let name = `
 "name": "` + selection + `"`;
+          let GUI = `,
+"showGuiOverlay": ` + this.settings.autoShowGUI;
           let rotation = `,
 "rotationX": 0, "rotationY": 0, "rotationZ": 0`;
           let autoRotate = `,
@@ -31147,14 +31151,22 @@ var ThreeJSPlugin = class extends import_obsidian.Plugin {
 "positionX": 0, "positionY": 0, "positionZ": 0`;
           let scale = `,
 "scale": "` + this.settings.standardScale + `"`;
-          let color = `,
-"colorHexString": "` + this.settings.standardColor.replace(/#/g, "") + `"`;
+          let objectColor = `,
+"stlColorHexString": "606060"`;
+          let backgroundColor = `,
+"backgroundColorHexString": "` + this.settings.standardColor.replace(/#/g, "") + `"`;
+          let cameraType = `,
+"orthographic": ` + this.settings.orthographicCam;
+          let cameraPos = `,
+"camPosXYZ": [0,5,10]`;
+          let cameraLookat = `,
+"LookatXYZ": [0,0,0]`;
           let showAxisHelper = `,
 "showAxisHelper": false, "length": 5`;
           let showGridHelper = `,
 "showGridHelper": false, "gridSize": 10`;
           let codeBlockClosing = "\n}\n```\n";
-          let content = codeBlockType + name + rotation + autoRotate + position + scale + color + showAxisHelper + showGridHelper + codeBlockClosing;
+          let content = codeBlockType + name + GUI + rotation + autoRotate + position + scale + objectColor + backgroundColor + cameraType + cameraPos + cameraLookat + showAxisHelper + showGridHelper + codeBlockClosing;
           editor.replaceSelection(content);
         }
       }
@@ -31178,17 +31190,17 @@ var ThreeJSPlugin = class extends import_obsidian.Plugin {
   }
   initializeThreeJsScene(el, config, modelPath, name, width, ctx) {
     const scene = new Scene();
-    scene.background = new Color(`#${config.colorHexString || this.settings.standardColor.replace(/#/g, "")}`);
+    scene.background = new Color(`#${config.backgroundColorHexString || config.colorHexString || this.settings.standardColor.replace(/#/g, "")}`);
+    const axesHelper = new AxesHelper(config.length);
+    const gridHelper = new GridHelper(config.gridSize, config.gridSize);
+    this.gui(config.showGuiOverlay, el, scene, axesHelper, gridHelper);
     if (config.showAxisHelper) {
-      const axesHelper = new AxesHelper(config.length);
       scene.add(axesHelper);
     }
     if (config.showGridHelper) {
-      const gridHelper = new GridHelper(config.gridSize, config.gridSize);
       scene.add(gridHelper);
     }
-    const camera = new PerspectiveCamera(75, width / this.settings.standardEmbedHeight, 0.1, 1e3);
-    camera.position.z = 10;
+    let camera = this.setCameraMode(config.orthographic, width, this.settings.standardEmbedHeight);
     const renderer = new WebGLRenderer();
     renderer.setSize(width, this.settings.standardEmbedHeight);
     el.appendChild(renderer.domElement);
@@ -31198,6 +31210,7 @@ var ThreeJSPlugin = class extends import_obsidian.Plugin {
     const ambientLight = new AmbientLight(4210752, 0.5);
     scene.add(ambientLight);
     const controls = new OrbitControls(camera, renderer.domElement);
+    this.applyCameraSettings(camera, config, controls);
     const modelExtension = name.slice(-3).toLowerCase();
     let ThreeDmodel;
     this.loadModel(scene, modelPath, modelExtension, config, (model) => {
@@ -31235,7 +31248,14 @@ var ThreeJSPlugin = class extends import_obsidian.Plugin {
       case "stl":
         const stlLoader = new STLLoader();
         stlLoader.load(modelPath, (geometry) => {
-          const material = new MeshPhongMaterial({ color: 6316128, shininess: 100 });
+          let material;
+          if (config.stlColorHexString) {
+            let col2;
+            col2 = "#" + config.stlColorHexString;
+            material = new MeshStandardMaterial({ color: col2 });
+          } else {
+            material = new MeshPhongMaterial({ color: 6316128, shininess: 100 });
+          }
           const model = new Mesh(geometry, material);
           this.applyModelSettings(model, config);
           scene.add(model);
@@ -31301,6 +31321,81 @@ var ThreeJSPlugin = class extends import_obsidian.Plugin {
         throw new Error("Unsupported model format");
     }
   }
+  gui(guiShow, el, scene, axesHelper, gridHelper) {
+    if (guiShow) {
+      let colorInput = document.createElement("input");
+      colorInput.addClass("colorInput");
+      colorInput.type = "color";
+      el.appendChild(colorInput);
+      let axisInput = document.createElement("input");
+      axisInput.classList.add("axisInput");
+      axisInput.type = "checkbox";
+      el.appendChild(axisInput);
+      let gridInput = document.createElement("input");
+      gridInput.classList.add("gridInput");
+      gridInput.type = "checkbox";
+      el.appendChild(gridInput);
+      gridInput.addEventListener("input", () => {
+        if (gridInput.checked) {
+          scene.add(gridHelper);
+        } else {
+          scene.remove(gridHelper);
+        }
+      });
+      axisInput.addEventListener("input", () => {
+        if (axisInput.checked) {
+          scene.add(axesHelper);
+        } else {
+          scene.remove(axesHelper);
+        }
+      });
+      colorInput.addEventListener("input", () => {
+        scene.background = new Color(colorInput.value);
+      });
+    } else {
+      const colorInput = el.querySelector(".colorInput");
+      const axisInput = el.querySelector(".axisInput");
+      const gridInput = el.querySelector(".gridInput");
+      if (colorInput)
+        el.removeChild(colorInput);
+      if (axisInput)
+        el.removeChild(axisInput);
+      if (gridInput)
+        el.removeChild(gridInput);
+    }
+  }
+  setCameraMode(orthographic, width, height) {
+    let camera;
+    if (!orthographic) {
+      camera = new PerspectiveCamera(75, width / height, 0.1, 1e3);
+    } else if (orthographic) {
+      const aspect2 = width / height;
+      const distance = 10;
+      const fov2 = MathUtils.degToRad(75);
+      const frustumHeight = 2 * distance * Math.tan(fov2 / 2);
+      const frustumWidth = frustumHeight * aspect2;
+      camera = new OrthographicCamera(-frustumWidth / 2, frustumWidth / 2, frustumHeight / 2, -frustumHeight / 2, 1, 1e3);
+    } else {
+      camera = new PerspectiveCamera(75, width / height, 0.1, 1e3);
+    }
+    return camera;
+  }
+  applyCameraSettings(cam, config, controls) {
+    if (config.camPosXYZ) {
+      cam.position.x = config.camPosXYZ[0];
+      cam.position.y = config.camPosXYZ[1];
+      cam.position.z = config.camPosXYZ[2];
+    } else {
+      cam.position.x = 0;
+      cam.position.y = 5;
+      cam.position.z = 10;
+    }
+    if (config.LookatXYZ) {
+      controls.target = new Vector3(config.LookatXYZ[0], config.LookatXYZ[1], config.LookatXYZ[2]);
+    } else {
+      controls.target = new Vector3(0, 0, 0);
+    }
+  }
   applyModelSettings(model, config) {
     model.scale.set(config.scale || 1, config.scale || 1, config.scale || 1);
     model.rotation.x = MathUtils.degToRad(config.rotationX || 0);
@@ -31343,6 +31438,18 @@ var ThreeDSettingsTab = class extends import_obsidian.PluginSettingTab {
     new import_obsidian.Setting(containerEl).setName("Auto Rotate Models").setDesc("If true, will always automatically rotate the models in your scene").addToggle(
       (toggle) => toggle.setValue(this.plugin.settings.autoRotate).onChange(async (value) => {
         this.plugin.settings.autoRotate = value;
+        await this.plugin.saveData(this.plugin.settings);
+      })
+    );
+    new import_obsidian.Setting(containerEl).setName("Toggle Orthographic Camera").setDesc("If true, will load all your scenes with a orthographic camera, if false, defaults to a perspective camera. You can also set this per scene, in the codeblock config").addToggle(
+      (toggle) => toggle.setValue(this.plugin.settings.orthographicCam).onChange(async (value) => {
+        this.plugin.settings.orthographicCam = value;
+        await this.plugin.saveData(this.plugin.settings);
+      })
+    );
+    new import_obsidian.Setting(containerEl).setName("Toggle Automatically show GUI").setDesc("If true, will show basic gui options for a scene (color selector, grid checkbox) upon model load. Can also be set in the codeblock config").addToggle(
+      (toggle) => toggle.setValue(this.plugin.settings.autoShowGUI).onChange(async (value) => {
+        this.plugin.settings.autoShowGUI = value;
         await this.plugin.saveData(this.plugin.settings);
       })
     );

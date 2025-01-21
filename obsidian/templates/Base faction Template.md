@@ -23,6 +23,11 @@ image
 - 3
 
 --- end-multi-column
+
+
+---
+
+
 --- start-multi-column: ID_oxzo
 ```column-settings
 Number of Columns: 2
@@ -34,6 +39,7 @@ Largest Column: standard
 
 --- column-break ---
 
+### mechanics :
 - 
 
 --- end-multi-column

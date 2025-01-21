@@ -4,7 +4,6 @@ tags:
 ---
 ---
 # Unity
-![[Main-Page#^f1791e|main]]
 --- start-multi-column: ID_2cnd
 ```column-settings
 Number of Columns: 2

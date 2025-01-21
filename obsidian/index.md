@@ -20,7 +20,7 @@ aliases:
 	foundation to open source modular tabletop game
 ```
 
-# ░▒▓|Rule Set|▓▒░
+# ░▒▓|**Rule Set**|▓▒░
 
 > [!danger] info
 > just a sprinkle of mechanics that moves the gameplay from bland to fun
@@ -47,7 +47,7 @@ aliases:
 - [[unit Categories]]
 - [[sizing]]
 
-# ░▒▓|Path To Everything|▓▒░
+# ░▒▓|**Path To Everything**|▓▒░
 
 > [!danger] info
 > collection of all units and everything related to them
@@ -58,7 +58,7 @@ aliases:
 - [[Status Effect Page]]
 - [[Pilot Page]]
 
-# ░▒▓|Factions|▓▒░
+# ░▒▓|**Factions**|▓▒░
 
 > [!danger] info
 > for player to pick what style of units he really wants to play
@@ -105,7 +105,7 @@ group of mercenaries fighting for pride , being admired, colosseum champions , m
 
 ## [[]]
 
-# ░▒▓|Lore|▓▒░
+# ░▒▓|**Lore**|▓▒░
 
 > [!danger] info
 > this is the messy chunks of text that should explain why things exist like that 

@@ -1,12 +1,43 @@
 ---
 tags:
+  - Faction
 ---
 ---
 # {{title}}
+--- start-multi-column: ID_69nk
+```column-settings
+Number of Columns: 3
+Largest Column: standard
+```
 
-- links and text
----
-## subFactionname
+name :
+
+--- column-break ---
+
+image
+
+--- column-break ---
+###  sub points
+- 1
+- 2
+- 3
+
+--- end-multi-column
+--- start-multi-column: ID_oxzo
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
+### lore :
 - 
+
+--- column-break ---
+
+- 
+
+--- end-multi-column
+
+
 
 

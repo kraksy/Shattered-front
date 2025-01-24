@@ -6,7 +6,7 @@ tags:
 # Lore Codex I
 
 # timeline
-- [[pre-Mechanical stage]]
+- ![[pre-Mechanical stage]]
 - [[world wars]]
 - [[land division]]
 

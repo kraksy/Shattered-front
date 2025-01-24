@@ -10,14 +10,11 @@ aliases:
 # ░▒▓|**Shattered front**|▓▒░
 
 ```
-	expandable tabletop war game 
-	
-	d6 Dice simplicity
-	map objects mechs or tanks
-	
-	factions with different goals|ideals and unique playstyles
-	main goal of this project to stand as 
-	foundation to open source modular tabletop game
+expandable tabletop war game 
+
+d6 Dice simplicity map objects mechs or tanks
+
+factions with different goals|ideals and unique playstyles main goal of this project to stand as foundation to open source modular tabletop game
 ```
 
 # ░▒▓|**Rule Set**|▓▒░
@@ -38,11 +35,10 @@ aliases:
     - [[Fog of War Mechanic]]
     - [[Random Events]]
     - [[Veterancy System]]
-    - [[]]
 - [[How to play]]
 - [[Examples]]
 
-## ruleset for new units
+## rule set for new units
 
 - [[unit Categories]]
 - [[sizing]]
@@ -66,10 +62,11 @@ aliases:
 ## [[Unity]]
 
 ```
-	izolated nation seeking perfection , and order. overseeing every step behind the walls,
-	only use of mechs is in battle and the army isnt using any pilots, they want to overtake 
-	the whole planet so they can control everything
+izolated nation seeking perfection , and order. overseeing every step behind the walls,
+only use of mechs is in battle and the army isnt using any pilots, they want to overtake the whole planet so they can control everything
 ```
+
+^d2a8e7
 
 ### teams :
 
@@ -80,10 +77,10 @@ aliases:
 ## [[Rusty Nails]]
 
 ```
-	barbaric like post apocaliptic and agressive clan of skilled fighters in self made mechs or 
-	tanks covered in scap metals and any stolen technology they usually work in packs where 
-	they hunt for stolen goods and honor. winning wars means keeping people in peace
+barbaric like post apocaliptic and agressive clan of skilled fighters in self made mechs or tanks covered in scap metals and any stolen technology they usually work in packs where they hunt for stolen goods and honor. winning wars means keeping people in peace
 ```
+
+^084a37
 
 ### clans :
 
@@ -96,6 +93,8 @@ aliases:
 ```
 group of mercenaries fighting for pride , being admired, colosseum champions , mechs wearing all sorts of decorations , in bronze color , the factions objective is planet domination 
 ```
+
+^50cd21
 
 ### branches :
 

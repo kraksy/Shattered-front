@@ -4,46 +4,25 @@ tags:
 ---
 ---
 # Rusty Nails
---- start-multi-column: ID_69nk
-```column-settings
-Number of Columns: 3
-Largest Column: standard
-```
 
-name :
-
---- column-break ---
-
-image
-
---- column-break ---
-###  sub points
-- 1
-- 2
-- 3
-
---- end-multi-column
-
+![[index#^084a37]]
 
 ---
+### **squads :**
+- [[chem-punks]]
+- [[chompers]]
+- [[Iron Eruptors]]
 
+---
+### **faction unit links :**
+- [[Units page#Rusty Nails leader units]]
+- [[Units page#Rusty Nails medium units]]
+- [[Units page#Rusty Nails small units]]
 
---- start-multi-column: ID_oxzo
-```column-settings
-Number of Columns: 2
-Largest Column: standard
-```
-
-### lore :
-- 
-
---- column-break ---
-
-### mechanics :
-- 
-
---- end-multi-column
-
-
+---
+### **faction mechanic :**
+- [[]]
+---
+### **lore :**
 
 

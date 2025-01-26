@@ -32,7 +32,7 @@ cssclasses: []
 | [[railgun mech]]       | [[devoted pilot]]      | [[mech]] | [[railgun]]         |                      | ---           | [[Unity]] | 30   |
 | [[autocannon Mech]]    | [[devoted pilot]]      | [[mech]] | [[autocannon]]      |                      | ---           | [[Unity]] | 30   |
 
-# **[[Rusty Nails]] units**
+# **[[Rusty Nails]] units
 
 ## [[Rusty Nails]] leader units
 

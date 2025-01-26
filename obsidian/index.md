@@ -8,7 +8,7 @@ aliases:
 ---
 # ░▒▓|**Shattered front**|▓▒░
 
-```
+```C
 expandable tabletop war game 
 
 d6 Dice simplicity map objects mechs or tanks
@@ -27,20 +27,16 @@ factions with different goals|ideals and unique playstyles main goal of this pro
 - [[Move System]]
 - [[Squad rules]]
 - [[game-modes]]
-    - [[battle points]]
+    - [[battle points]] // change this to energy // game modes can be created with it
     - [[Resource Points]]
     - [[Fog of War Mechanic]]
     - [[Random Events]]
     - [[Veterancy System]]
+    - [[energy]]
 - [[How to play]]
 - [[Examples]]
-<<<<<<< HEAD
 ## ruleset for new units
-=======
 
-## rule set for new units
-
->>>>>>> e81f471c46252ab3ba88cc3fa9aea058a1f6c085
 - [[unit Categories]]
 - [[sizing]]
 # ░▒▓|**Path To Everything**|▓▒░
@@ -58,59 +54,47 @@ factions with different goals|ideals and unique playstyles main goal of this pro
 
 > [!danger] .
 > for player to pick what style of units he really wants to play
-## [[Unity]]
+# [[Unity]]
 
-```
-<<<<<<< HEAD
+```C
 izolated nation seeking perfection , and order. overseeing every step behind the walls, only use of mechs is in battle and the army isnt using any pilots, they want to overtake the whole planet so they can control everything
 ```
-=======
-izolated nation seeking perfection , and order. overseeing every step behind the walls,
-only use of mechs is in battle and the army isnt using any pilots, they want to overtake the whole planet so they can control everything
-```
 
-^d2a8e7
+^b10690
 
->>>>>>> e81f471c46252ab3ba88cc3fa9aea058a1f6c085
 ### teams :
 
 - [[I Valens]]
 - [[X Perpetuum]]
 - [[XXIV Tersus]]
-## [[Rusty Nails]]
 
-```
+# [[Rusty Nails]]
+
+```C
 barbaric like post apocaliptic and agressive clan of skilled fighters in self made mechs or tanks covered in scap metals and any stolen technology they usually work in packs where they hunt for stolen goods and honor. winning wars means keeping people in peace
 ```
-<<<<<<< HEAD
-=======
 
-^084a37
+^8d8a58
 
->>>>>>> e81f471c46252ab3ba88cc3fa9aea058a1f6c085
 ### clans :
-
 - [[chem-punks]]
 - [[chompers]]
 - [[Iron Eruptors]]
 ## [[Sons of Bellator]]
 
-```
+```C
 group of mercenaries fighting for pride , being admired, colosseum champions , mechs wearing all sorts of decorations , in bronze color , the factions objective is planet domination 
 ```
-<<<<<<< HEAD
-=======
 
-^50cd21
+^417740
 
->>>>>>> e81f471c46252ab3ba88cc3fa9aea058a1f6c085
 ### branches :
 - [[milites-cerberi]]
-## [[]]
-
 # ░▒▓|**Lore**|▓▒░
 
-> [!danger] info
+> [!danger] .
 > this is the messy chunks of text that should explain why things exist like that 
-
 ## [[Lore Codex I]]
+
+- [[gun manufacturers]]
+- [[planet materials]]

@@ -5,7 +5,7 @@ tags:
 ---
 # Sons of Bellator
 
-![[index#^50cd21]]
+![[index#^417740]]
 
 ---
 ### **squads :**

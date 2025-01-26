@@ -6,7 +6,6 @@ tags:
 
 # **weapon list**
 
-
 ### light weapons
 
 | name              | range | damage | ability          | status effect                   |

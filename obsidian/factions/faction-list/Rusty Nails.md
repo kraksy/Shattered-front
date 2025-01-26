@@ -5,8 +5,7 @@ tags:
 ---
 # Rusty Nails
 
-![[index#^084a37]]
-
+![[index#^8d8a58]]
 ---
 ### **squads :**
 - [[chem-punks]]

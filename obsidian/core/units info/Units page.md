@@ -50,9 +50,6 @@ cssclasses: []
 # [[Rusty Nails]] small units
 | name                   | pilot                  | category | weapon-list         | ability-list         | status-efects | faction   | cost |
 | ---------------------- | ---------------------- | -------- | ------------------- | -------------------- | ------------- | --------- | ---- |
-| [[extermination tank]] | [[devoted pilot]] crew | [[tank]] | [[120 mm canon]]    | [[second shot]]      | ---           | [[Unity]] | 10   |
-| [[cleanser artillery]] | [[devoted pilot]] crew | [[tank]] | [[Artillery canon]] | [[death from above]] | ---           | [[Unity]] | 20   |
-| [[assault mech ]]      | [[devoted pilot]]      | [[mech]] | [[assault rifle]]   |                      | ---           | [[Unity]] | 30   |
 |                        |                        |          |                     |                      |               |           |      |
 
 

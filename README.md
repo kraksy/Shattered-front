@@ -21,13 +21,6 @@ static html for webpage docs
 
 the real deal docs
 
-## G-code folder
-
-all the g-code for printing on prusa 3dprinters
-
-## models folder
-
-blender and stl files of the models
 
 # website : 
 

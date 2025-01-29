@@ -27,12 +27,11 @@ factions with different goals|ideals and unique playstyles main goal of this pro
 - [[Move System]]
 - [[Squad rules]]
 - [[game-modes]]
-    - [[battle points]] // change this to energy // game modes can be created with it
+    - [[energy points]] 
     - [[Resource Points]]
     - [[Fog of War Mechanic]]
     - [[Random Events]]
     - [[Veterancy System]]
-    - [[energy]]
 - [[How to play]]
 - [[Examples]]
 ## ruleset for new units

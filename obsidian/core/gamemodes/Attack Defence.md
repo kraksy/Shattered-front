@@ -22,4 +22,4 @@ aliases:
 
 **battle points payout:**
 
-![[battle points#^49cfdc]]
+![[energy points#^49cfdc]]

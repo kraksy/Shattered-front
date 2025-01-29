@@ -4,16 +4,20 @@ tags:
 publish: "true"
 ---
 ---
-# battle points
+# energy points
+
 ```
 	is a system that works as fuel for gameplay
 	that makes the game more complex and balanced.
 ```
 
-- every mech has weapons and unique ability to make the mech individual. 
+---
 
-- [[battle points]] depends on [[game-modes]] or player decision how to play the game.
+- every mech has weapons and unique ability like [[death from above]], to make the mech special. 
+- energy points depends on [[game-modes]] or player decision how to play the game.
+- energy points are the units of how much [[ignite]] the player has for his squad or mission
 
+---
 ## earning battle points
 #### [[Brawl]]
 

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Shattered Front]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Shattered Front</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 26 Jan 2025 22:38:49 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 26 Jan 2025 22:38:39 GMT</pubDate><copyright><![CDATA[krek]]></copyright><ttl>60</ttl><dc:creator>krek</dc:creator><item><title><![CDATA[death from above]]></title><description><![CDATA[ 
- ]]></description><link>core\abilities\list\death-from-above.html</link><guid isPermaLink="false">core/abilities/list/death from above.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:39 GMT</pubDate></item><item><title><![CDATA[piercer]]></title><description><![CDATA[ 
- ]]></description><link>core\abilities\list\piercer.html</link><guid isPermaLink="false">core/abilities/list/piercer.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:39 GMT</pubDate></item><item><title><![CDATA[second shot]]></title><description><![CDATA[ 
- ]]></description><link>core\abilities\list\second-shot.html</link><guid isPermaLink="false">core/abilities/list/second shot.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:06:31 GMT</pubDate></item><item><title><![CDATA[Ability list]]></title><description><![CDATA[ 
- <br><br><br>]]></description><link>core\abilities\ability-page.html</link><guid isPermaLink="false">core/abilities/Ability Page.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:09:21 GMT</pubDate></item><item><title><![CDATA[Attack Defence]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Shattered Front]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Shattered Front</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 30 Jan 2025 08:30:33 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 30 Jan 2025 08:30:25 GMT</pubDate><copyright><![CDATA[krek]]></copyright><ttl>60</ttl><dc:creator>krek</dc:creator><item><title><![CDATA[Attack Defence]]></title><description><![CDATA[ 
  <br><br><br>alias: ffa with objective<br>
 <br>one player defends a strategic point or objective while the other(s) attempt to capture or destroy it.
 <br>the defending player typically has fortified positions and defensive bonuses.
@@ -10,19 +6,19 @@
 <br>win condition:<br>
 <br>attackers: capture or destroy the objective.
 <br>defenders: hold the objective for a set number of turns or eliminate all attackers.
-<br>battle points payout:<br><br>]]></description><link>core\gamemodes\attack-defence.html</link><guid isPermaLink="false">core/gamemodes/Attack Defence.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:39 GMT</pubDate></item><item><title><![CDATA[Brawl]]></title><description><![CDATA[ 
+<br>battle points payout:<br><br><br>]]></description><link>core/gamemodes/attack-defence.html</link><guid isPermaLink="false">core/gamemodes/Attack Defence.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Wed, 29 Jan 2025 11:52:03 GMT</pubDate></item><item><title><![CDATA[Brawl]]></title><description><![CDATA[ 
  <br><br><br>alias: ffa (free for all)<br>
 <br>a chaotic and unpredictable game mode where every player fights for themselves.
 <br>no objectives other than eliminating enemy units and gaining the most battle points.
 <br>works well with smaller maps and fast-paced gameplay.
-<br>win condition: the player with the most <a data-href="battle points" href="\rules\ingame-mechanics\battle-points.html" class="internal-link" target="_self" rel="noopener nofollow">battle points</a> at the end of the set number of turns wins.<br>battle points payout:<br><br><br>]]></description><link>core\gamemodes\brawl.html</link><guid isPermaLink="false">core/gamemodes/Brawl.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:39 GMT</pubDate></item><item><title><![CDATA[Capture The Point]]></title><description><![CDATA[ 
+<br>win condition: the player with the most <a data-href="energy points" href="rules/ingame-mechanics/energy-points.html" class="internal-link" target="_self" rel="noopener nofollow">energy points</a> at the end of the set number of turns wins.<br>battle points payout:<br><br><br>]]></description><link>core/gamemodes/brawl.html</link><guid isPermaLink="false">core/gamemodes/Brawl.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Wed, 29 Jan 2025 11:52:03 GMT</pubDate></item><item><title><![CDATA[Capture The Point]]></title><description><![CDATA[ 
  <br><br><br>alias: ctp<br>
 <br>the map features multiple strategic points players must capture and hold.
 <br>points are scored at the end of each turn based on the number of objectives held.
 <br>encourages mobility, positioning, and strategic resource management.
 <br>win condition: the player or team with the most points after a set number of turns wins.<br>special rules:<br>
 <br>objectives can have special conditions (e.g., require a specific type of unit to capture).
-<br><br><br><br>]]></description><link>core\gamemodes\capture-the-point.html</link><guid isPermaLink="false">core/gamemodes/Capture The Point.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:09:17 GMT</pubDate></item><item><title><![CDATA[Escort Mission]]></title><description><![CDATA[ 
+<br><br><br><br>]]></description><link>core/gamemodes/capture-the-point.html</link><guid isPermaLink="false">core/gamemodes/Capture The Point.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Wed, 29 Jan 2025 11:52:03 GMT</pubDate></item><item><title><![CDATA[Escort Mission]]></title><description><![CDATA[ 
  <br><br><br>alias: payload<br>
 <br>one player must escort a valuable unit or object across the map to a designated extraction point.
 <br>the opposing player must prevent the escort from succeeding by destroying the target or delaying them until time runs out.
@@ -32,18 +28,146 @@
 <br>special rules:<br>
 <br>escort units typically have limited movement and require protection.
 <br>defenders can set traps or block paths strategically.
-<br><br><br><br>]]></description><link>core\gamemodes\escort-mission.html</link><guid isPermaLink="false">core/gamemodes/Escort Mission.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:09:15 GMT</pubDate></item><item><title><![CDATA[King of the Hill]]></title><description><![CDATA[ 
+<br><br><br><br>]]></description><link>core/gamemodes/escort-mission.html</link><guid isPermaLink="false">core/gamemodes/Escort Mission.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Wed, 29 Jan 2025 11:52:03 GMT</pubDate></item><item><title><![CDATA[King of the Hill]]></title><description><![CDATA[ 
  <br><br><br>
 <br>players fight to control a single central point on the map.
 <br>holding the point at the end of each turn grants battle points.
 <br>intense combat is focused on one area, creating dynamic and high-stakes gameplay.
-<br>win condition: the player who holds the hill for the most turns till the time reaches its limit or reaches a set score limit wins.<br>battle points payout:<br><br><br>]]></description><link>core\gamemodes\king-of-the-hill.html</link><guid isPermaLink="false">core/gamemodes/King of the Hill.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:09:15 GMT</pubDate></item><item><title><![CDATA[alik]]></title><description><![CDATA[ 
+<br>win condition: the player who holds the hill for the most turns till the time reaches its limit or reaches a set score limit wins.<br>battle points payout:<br><br><br>]]></description><link>core/gamemodes/king-of-the-hill.html</link><guid isPermaLink="false">core/gamemodes/King of the Hill.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Wed, 29 Jan 2025 11:52:03 GMT</pubDate></item><item><title><![CDATA[autocannon Mech]]></title><description><![CDATA[ 
+ ]]></description><link>core/mechs/list/autocannon-mech.html</link><guid isPermaLink="false">core/mechs/list/autocannon Mech.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Wed, 29 Jan 2025 11:50:52 GMT</pubDate></item><item><title><![CDATA[Units page]]></title><description><![CDATA[ 
+ <br><br><br>info
+this is a page that compiles all of the data to one , so one can just look at this , and pick units for his army
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>core/units-info/units-page.html</link><guid isPermaLink="false">core/units info/Units page.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Tue, 28 Jan 2025 09:02:05 GMT</pubDate></item><item><title><![CDATA[<strong>weapon list</strong>]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br><br><br><br><br>]]></description><link>core/weapons/weapon-page.html</link><guid isPermaLink="false">core/weapons/Weapon Page.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Tue, 28 Jan 2025 09:02:05 GMT</pubDate></item><item><title><![CDATA[Rusty Nails]]></title><description><![CDATA[ 
+ <br><br><br><br><br>
+<br><a data-href="chem-punks" href="factions/squads/chem-punks.html" class="internal-link" target="_self" rel="noopener nofollow">chem-punks</a>
+<br><a data-href="chompers" href="chompers" class="internal-link" target="_self" rel="noopener nofollow">chompers</a>
+<br><a data-href="Iron Eruptors" href="Iron Eruptors" class="internal-link" target="_self" rel="noopener nofollow">Iron Eruptors</a>
+<br><br><br>
+<br><a data-href="Units page#Rusty Nails leader units" href="core/units-info/units-page.html#Rusty_Nails_leader_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Rusty Nails leader units</a>
+<br><a data-href="Units page#Rusty Nails medium units" href="core/units-info/units-page.html#Rusty_Nails_medium_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Rusty Nails medium units</a>
+<br><a data-href="Units page#Rusty Nails small units" href="core/units-info/units-page.html#Rusty_Nails_small_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Rusty Nails small units</a>
+<br><br><br>
+<br>[[]]
+<br><br>]]></description><link>factions/faction-list/rusty-nails.html</link><guid isPermaLink="false">factions/faction-list/Rusty Nails.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Tue, 28 Jan 2025 09:02:05 GMT</pubDate></item><item><title><![CDATA[Sons of Bellator]]></title><description><![CDATA[ 
+ <br><br><br><br><br>group of mercenaries fighting for pride , being admired, colosseum champions , mechs wearing all sorts of decorations , in bronze color , the factions objective is planet domination 
+<br><br><br>
+<br><a data-href="milites-cerberi" href="factions/squads/milites-cerberi.html" class="internal-link" target="_self" rel="noopener nofollow">milites-cerberi</a>
+<br><br><br>
+<br><a data-href="Units page#" href="core/units-info/units-page.html#" class="internal-link" target="_self" rel="noopener nofollow">Units page</a>
+<br><a data-href="Units page#" href="core/units-info/units-page.html#" class="internal-link" target="_self" rel="noopener nofollow">Units page</a>
+<br><a data-href="Units page#" href="core/units-info/units-page.html#" class="internal-link" target="_self" rel="noopener nofollow">Units page</a>
+<br><br><br>
+<br>
+<br><br>]]></description><link>factions/faction-list/sons-of-bellator.html</link><guid isPermaLink="false">factions/faction-list/Sons of Bellator.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Tue, 28 Jan 2025 09:02:05 GMT</pubDate></item><item><title><![CDATA[Unity]]></title><description><![CDATA[ 
+ <br><br><br><br><br>izolated nation seeking perfection , and order. overseeing every step behind the walls, only use of mechs is in battle and the army isnt using any pilots, they want to overtake the whole planet so they can control everything
+<br><br><br>
+<br><a data-href="I Valens" href="factions/squads/i-valens.html" class="internal-link" target="_self" rel="noopener nofollow">I Valens</a>
+<br><a data-href="X Perpetuum" href="X Perpetuum" class="internal-link" target="_self" rel="noopener nofollow">X Perpetuum</a>
+<br><a data-href="XXIV Tersus" href="XXIV Tersus" class="internal-link" target="_self" rel="noopener nofollow">XXIV Tersus</a>
+<br><br><br>
+<br><a data-href="Units page#Unity leader units" href="core/units-info/units-page.html#Unity_leader_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Unity leader units</a>
+<br><a data-href="Units page#Unity medium units" href="core/units-info/units-page.html#Unity_medium_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Unity medium units</a>
+<br><a data-href="Units page#Unity small units" href="core/units-info/units-page.html#Unity_small_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Unity small units</a>
+<br><br><br>
+<br><a data-href="overclocking mechanic" href="factions/faction-gimmicks/overclocking-mechanic.html" class="internal-link" target="_self" rel="noopener nofollow">overclocking mechanic</a>
+<br><br>]]></description><link>factions/faction-list/unity.html</link><guid isPermaLink="false">factions/faction-list/Unity.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Tue, 28 Jan 2025 09:02:05 GMT</pubDate></item><item><title><![CDATA[first states]]></title><description><![CDATA[ 
+ ]]></description><link>lore/pages/first-states.html</link><guid isPermaLink="false">lore/pages/first states.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Thu, 30 Jan 2025 08:02:46 GMT</pubDate></item><item><title><![CDATA[pre-Mechanical stage]]></title><description><![CDATA[ 
+ <br>flame is really important aspect of prosperity of this civilization.<br>as first calendar is created it took mankind not much time to reach age of machines.<br>
+before all the mech's tank's and anything that runs on some kind of fuel. people used more of combustion or heat generation than any cleaner ways<br>
+this civilization differs from our with much quicker evolution of technologies just more primitive, but it was more fitting to the environment the planet has.<br>
+<a data-href="Walter Wade" href="Walter Wade" class="internal-link" target="_self" rel="noopener nofollow">Walter Wade</a> is one of the first key people that created the first schematics before machines for "instruments" as he written , for more easy manual labor with use of materials that can be used anywhere like wood or any other flammable material<br>after this pre-mechanical stage just ends.]]></description><link>lore/pages/pre-mechanical-stage.html</link><guid isPermaLink="false">lore/pages/pre-Mechanical stage.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Thu, 30 Jan 2025 07:52:06 GMT</pubDate></item><item><title><![CDATA[world wars]]></title><description><![CDATA[ 
+ <br>battle for land is not just thing of the future<br>after <a data-href="Walter Wade" href="Walter Wade" class="internal-link" target="_self" rel="noopener nofollow">Walter Wade</a>'s invention of first concept of engines and machinery it did not made appearance in use as quickly as somebody would think.]]></description><link>lore/pages/world-wars.html</link><guid isPermaLink="false">lore/pages/world wars.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Thu, 30 Jan 2025 08:01:39 GMT</pubDate></item><item><title><![CDATA[Lore Codex I]]></title><description><![CDATA[ 
+ <br><br><br>dates and names are rough sketches and can or will be changed any other time
+<br><br><br>
+<br>first states<br>
+<br>pre-Mechanical stage<br><br>flame is really important aspect of prosperity of this civilization.<br>as first calendar is created it took mankind not much time to reach age of machines.<br>
+before all the mech's tank's and anything that runs on some kind of fuel. people used more of combustion or heat generation than any cleaner ways<br>
+this civilization differs from our with much quicker evolution of technologies just more primitive, but it was more fitting to the environment the planet has.<br>
+<a data-href="Walter Wade" href="Walter Wade" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Walter Wade</a> is one of the first key people that created the first schematics before machines for "instruments" as he written , for more easy manual labor with use of materials that can be used anywhere like wood or any other flammable material<br>after this pre-mechanical stage just ends.
+<br>world wars<br><br>battle for land is not just thing of the future<br>after <a data-href="Walter Wade" href="Walter Wade" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Walter Wade</a>'s invention of first concept of engines and machinery it did not made appearance in use as quickly as somebody would think.
+<br>planet rich in raw materials , minerals gasses and others<br>people of this planet lived peaceful life very close to our life till showers of meteorites landed on the surface and gave the mankind <a data-href="ignite" href="ignite" class="internal-link" target="_self" rel="noopener nofollow">ignite</a><br>that literally ignited the war between people in chaos that never ended. till now times<br><a data-href="ignite" href="ignite" class="internal-link" target="_self" rel="noopener nofollow">ignite</a> is very flammable and gravity defining <br>red material that is cleaner or more dirty dependable on how people use it<br>when burned directly, secondary product is heavy smoke that fill the lungs of one very quickly and kills after more then one puffs from such smoke <br>but more sophisticated factions use cleaner ways<br>where multiple factions battle for land , or they just fight for status<br>
+before all the fighting and chaos ]]></description><link>lore/lore-codex-i.html</link><guid isPermaLink="false">lore/Lore Codex I.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Thu, 30 Jan 2025 08:02:45 GMT</pubDate></item><item><title><![CDATA[sizing]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>simple guide for unit sizing for more easy additions
+<br>ratio for sizing is 1/56 
+<br><br>]]></description><link>rules/creating/sizing.html</link><guid isPermaLink="false">rules/creating/sizing.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 24 Jan 2025 13:43:25 GMT</pubDate></item><item><title><![CDATA[unit Categories]]></title><description><![CDATA[ 
+ <br><br><br>info
+Contents
+<br>]]></description><link>rules/creating/unit-categories.html</link><guid isPermaLink="false">rules/creating/unit Categories.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Tue, 21 Jan 2025 11:47:54 GMT</pubDate></item><item><title><![CDATA[energy points]]></title><description><![CDATA[ 
+ <br><br><br>	is a system that works as fuel for gameplay
+	that makes the game more complex and balanced.
+<br><br>
+<br>every mech has weapons and unique ability like <a data-href="death from above" href="core/abilities/list/death-from-above.html" class="internal-link" target="_self" rel="noopener nofollow">death from above</a>, to make the mech special. 
+<br>energy points depends on <a data-href="game-modes" href="rules/preperations/game-modes.html" class="internal-link" target="_self" rel="noopener nofollow">game-modes</a> or player decision how to play the game.
+<br>energy points are the units of how much <a data-href="ignite" href="ignite" class="internal-link" target="_self" rel="noopener nofollow">ignite</a> the player has for his squad or mission
+<br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>rules/ingame-mechanics/energy-points.html</link><guid isPermaLink="false">rules/ingame mechanics/energy points.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Wed, 29 Jan 2025 11:57:13 GMT</pubDate></item><item><title><![CDATA[Squad rules]]></title><description><![CDATA[ 
+ <br><br><br><br>squad rules are great cog wheel for players that enjoy hording units and using them for battle]]></description><link>rules/ingame-mechanics/squad-rules.html</link><guid isPermaLink="false">rules/ingame mechanics/Squad rules.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Tue, 28 Jan 2025 09:02:05 GMT</pubDate></item><item><title><![CDATA[░▒▓|<strong>Shattered front</strong>|▓▒░]]></title><description><![CDATA[ 
+ <br><br>expandable tabletop war game 
+
+d6 Dice simplicity map objects mechs or tanks
+
+factions with different goals|ideals and unique playstyles main goal of this project to stand as foundation to open source modular tabletop game
+<br><br>.
+just a sprinkle of mechanics that moves the gameplay from bland to fun
+<br><br>
+<br><a data-href="army size + point" href="rules/preperations/army-size-+-point.html" class="internal-link" target="_self" rel="noopener nofollow">army size + point</a>
+<br><a data-href="army assembly and positioning" href="rules/preperations/army-assembly-and-positioning.html" class="internal-link" target="_self" rel="noopener nofollow">army assembly and positioning</a>
+<br><a data-href="Hit System" href="rules/ingame-mechanics/hit-system.html" class="internal-link" target="_self" rel="noopener nofollow">Hit System</a>
+<br><a data-href="Move System" href="rules/ingame-mechanics/move-system.html" class="internal-link" target="_self" rel="noopener nofollow">Move System</a>
+<br><a data-href="Squad rules" href="rules/ingame-mechanics/squad-rules.html" class="internal-link" target="_self" rel="noopener nofollow">Squad rules</a>
+<br><a data-href="game-modes" href="rules/preperations/game-modes.html" class="internal-link" target="_self" rel="noopener nofollow">game-modes</a>
+
+<br><a data-href="energy points" href="rules/ingame-mechanics/energy-points.html" class="internal-link" target="_self" rel="noopener nofollow">energy points</a> 
+<br><a data-href="Resource Points" href="rules/ingame-mechanics/resource-points.html" class="internal-link" target="_self" rel="noopener nofollow">Resource Points</a>
+<br><a data-href="Fog of War Mechanic" href="rules/ingame-mechanics/fog-of-war-mechanic.html" class="internal-link" target="_self" rel="noopener nofollow">Fog of War Mechanic</a>
+<br><a data-href="Random Events" href="rules/ingame-mechanics/random-events.html" class="internal-link" target="_self" rel="noopener nofollow">Random Events</a>
+<br><a data-href="Veterancy System" href="rules/ingame-mechanics/veterancy-system.html" class="internal-link" target="_self" rel="noopener nofollow">Veterancy System</a>
+
+
+<br><a data-href="How to play" href="How to play" class="internal-link" target="_self" rel="noopener nofollow">How to play</a>
+<br><a data-href="Examples" href="Examples" class="internal-link" target="_self" rel="noopener nofollow">Examples</a>
+<br><br>
+<br><a data-href="unit Categories" href="rules/creating/unit-categories.html" class="internal-link" target="_self" rel="noopener nofollow">unit Categories</a>
+<br><a data-href="sizing" href="rules/creating/sizing.html" class="internal-link" target="_self" rel="noopener nofollow">sizing</a>
+<br><br>.
+collection of all units and everything related to them
+<br>
+<br><a data-href="Units page" href="core/units-info/units-page.html" class="internal-link" target="_self" rel="noopener nofollow">Units page</a>
+<br><a data-href="Ability Page" href="core/abilities/ability-page.html" class="internal-link" target="_self" rel="noopener nofollow">Ability Page</a>
+<br><a data-href="Weapon Page" href="core/weapons/weapon-page.html" class="internal-link" target="_self" rel="noopener nofollow">Weapon Page</a>
+<br><a data-href="Status Effect Page" href="core/status-effets/status-effect-page.html" class="internal-link" target="_self" rel="noopener nofollow">Status Effect Page</a>
+<br><a data-href="Pilot Page" href="core/pilots/pilot-page.html" class="internal-link" target="_self" rel="noopener nofollow">Pilot Page</a>
+<br><br>.
+for player to pick what style of units he really wants to play
+<br><br>izolated nation seeking perfection , and order. overseeing every step behind the walls, only use of mechs is in battle and the army isnt using any pilots, they want to overtake the whole planet so they can control everything
+<br><br>
+<br><a data-href="I Valens" href="factions/squads/i-valens.html" class="internal-link" target="_self" rel="noopener nofollow">I Valens</a>
+<br><a data-href="X Perpetuum" href="X Perpetuum" class="internal-link" target="_self" rel="noopener nofollow">X Perpetuum</a>
+<br><a data-href="XXIV Tersus" href="XXIV Tersus" class="internal-link" target="_self" rel="noopener nofollow">XXIV Tersus</a>
+<br><br>barbaric like post apocaliptic and agressive clan of skilled fighters in self made mechs or tanks covered in scap metals and any stolen technology they usually work in packs where they hunt for stolen goods and honor. winning wars means keeping people in peace
+<br><br>
+<br><a data-href="chem-punks" href="factions/squads/chem-punks.html" class="internal-link" target="_self" rel="noopener nofollow">chem-punks</a>
+<br><a data-href="chompers" href="chompers" class="internal-link" target="_self" rel="noopener nofollow">chompers</a>
+<br><a data-href="Iron Eruptors" href="Iron Eruptors" class="internal-link" target="_self" rel="noopener nofollow">Iron Eruptors</a>
+<br><br>group of mercenaries fighting for pride , being admired, colosseum champions , mechs wearing all sorts of decorations , in bronze color , the factions objective is planet domination 
+<br><br>
+<br><a data-href="milites-cerberi" href="factions/squads/milites-cerberi.html" class="internal-link" target="_self" rel="noopener nofollow">milites-cerberi</a>
+<br><br>.
+this is the messy chunks of text that should explain why things exist like that 
+<br><br>
+<br><a data-href="gun manufacturers" href="gun manufacturers" class="internal-link" target="_self" rel="noopener nofollow">gun manufacturers</a>
+<br><a data-href="planet materials" href="planet materials" class="internal-link" target="_self" rel="noopener nofollow">planet materials</a>
+]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Wed, 29 Jan 2025 11:52:58 GMT</pubDate></item><item><title><![CDATA[death from above]]></title><description><![CDATA[ 
+ ]]></description><link>core\abilities\list\death-from-above.html</link><guid isPermaLink="false">core/abilities/list/death from above.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:39 GMT</pubDate></item><item><title><![CDATA[piercer]]></title><description><![CDATA[ 
+ ]]></description><link>core\abilities\list\piercer.html</link><guid isPermaLink="false">core/abilities/list/piercer.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:39 GMT</pubDate></item><item><title><![CDATA[second shot]]></title><description><![CDATA[ 
+ ]]></description><link>core\abilities\list\second-shot.html</link><guid isPermaLink="false">core/abilities/list/second shot.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:06:31 GMT</pubDate></item><item><title><![CDATA[Ability list]]></title><description><![CDATA[ 
+ <br><br><br>]]></description><link>core\abilities\ability-page.html</link><guid isPermaLink="false">core/abilities/Ability Page.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:09:21 GMT</pubDate></item><item><title><![CDATA[alik]]></title><description><![CDATA[ 
  <br><br><br><br>--- start-multi-column: ID_p7ac<br>Number of Columns: 2
 Largest Column: standard
 <br>name : alik <br>--- column-break ---<br>image here<br>--- end-multi-column<br>--- start-multi-column: ID_xy0g<br>Number of Columns: 4
 Largest Column: standard
-<br>weapons : <br>--- column-break ---<br>movement :<br>--- column-break ---<br>armor : <br>--- column-break ---<br>description :<br>--- end-multi-column]]></description><link>core\mechs\list\alik.html</link><guid isPermaLink="false">core/mechs/list/alik.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:10:41 GMT</pubDate></item><item><title><![CDATA[autocannon Mech]]></title><description><![CDATA[ 
- <br>“autoCannonMech.stl” could not be found.<br>]]></description><link>core\mechs\list\autocannon-mech.html</link><guid isPermaLink="false">core/mechs/list/autocannon Mech.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 29 Dec 2024 18:20:25 GMT</pubDate></item><item><title><![CDATA[extermination tank]]></title><description><![CDATA[ 
+<br>weapons : <br>--- column-break ---<br>movement :<br>--- column-break ---<br>armor : <br>--- column-break ---<br>description :<br>--- end-multi-column]]></description><link>core\mechs\list\alik.html</link><guid isPermaLink="false">core/mechs/list/alik.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:10:41 GMT</pubDate></item><item><title><![CDATA[extermination tank]]></title><description><![CDATA[ 
  <br>--- start-multi-column: ID_p7ac<br>Number of Columns: 2
 Largest Column: standard
 <br>name : <br>--- column-break ---<br>image here<br>--- end-multi-column<br>--- start-multi-column: ID_xy0g<br>Number of Columns: 4
@@ -55,15 +179,11 @@ Largest Column: standard
  <br><br><br><br>]]></description><link>core\pilots\pilot-page.html</link><guid isPermaLink="false">core/pilots/Pilot Page.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:43 GMT</pubDate></item><item><title><![CDATA[acid]]></title><description><![CDATA[ 
  <br><br><br>1/3 of weapon damage for 2 turns
 ]]></description><link>core\status-effets\list\acid.html</link><guid isPermaLink="false">core/status effets/list/acid.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:43 GMT</pubDate></item><item><title><![CDATA[Status Effect Page]]></title><description><![CDATA[ 
- <br><br><br><br><br><br><br><br>]]></description><link>core\status-effets\status-effect-page.html</link><guid isPermaLink="false">core/status effets/Status Effect Page.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 29 Dec 2024 22:41:32 GMT</pubDate></item><item><title><![CDATA[Units page]]></title><description><![CDATA[ 
- <br><br><br>info
-this is a page that compiles all of the data to one , so one can just look at this , and pick units for his army
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>core\units-info\units-page.html</link><guid isPermaLink="false">core/units info/Units page.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 26 Jan 2025 22:18:37 GMT</pubDate></item><item><title><![CDATA[Artillery canon]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br><br><br>]]></description><link>core\status-effets\status-effect-page.html</link><guid isPermaLink="false">core/status effets/Status Effect Page.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 29 Dec 2024 22:41:32 GMT</pubDate></item><item><title><![CDATA[Artillery canon]]></title><description><![CDATA[ 
  ]]></description><link>core\weapons\list\artillery-canon.html</link><guid isPermaLink="false">core/weapons/list/Artillery canon.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:43 GMT</pubDate></item><item><title><![CDATA[assault rifle]]></title><description><![CDATA[ 
  ]]></description><link>core\weapons\list\assault-rifle.html</link><guid isPermaLink="false">core/weapons/list/assault rifle.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 29 Dec 2024 01:02:37 GMT</pubDate></item><item><title><![CDATA[knife]]></title><description><![CDATA[ 
  ]]></description><link>core\weapons\list\knife.html</link><guid isPermaLink="false">core/weapons/list/knife.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:06:31 GMT</pubDate></item><item><title><![CDATA[railgun]]></title><description><![CDATA[ 
- ]]></description><link>core\weapons\list\railgun.html</link><guid isPermaLink="false">core/weapons/list/railgun.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:44 GMT</pubDate></item><item><title><![CDATA[<strong>weapon list</strong>]]></title><description><![CDATA[ 
- <br><br><br><br><br><br><br><br><br><br>]]></description><link>core\weapons\weapon-page.html</link><guid isPermaLink="false">core/weapons/Weapon Page.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 26 Jan 2025 22:33:45 GMT</pubDate></item><item><title><![CDATA[chemical instability]]></title><description><![CDATA[ 
+ ]]></description><link>core\weapons\list\railgun.html</link><guid isPermaLink="false">core/weapons/list/railgun.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:44 GMT</pubDate></item><item><title><![CDATA[chemical instability]]></title><description><![CDATA[ 
  <br><br><br>
 <br><a data-href="chem-punks" href="\factions\squads\chem-punks.html" class="internal-link" target="_self" rel="noopener nofollow">chem-punks</a>
 <br>comment: im not really sure with this one, since squads are not exactly explained but i just thought this would be quite fitting for chem crackheads, it kinda gives off the deepwoken saltchemist oath vibes lmao<br><br>
@@ -122,40 +242,7 @@ this is a page that compiles all of the data to one , so one can just look at th
 
 <br><br>
 <br>salvage tokens expire if not picked up within 2 rounds.
-]]></description><link>factions\faction-gimmicks\scavenger-economy.html</link><guid isPermaLink="false">factions/Faction gimmicks/scavenger economy.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:11:36 GMT</pubDate></item><item><title><![CDATA[Rusty Nails]]></title><description><![CDATA[ 
- <br><br><br><br><br>
-<br><a data-href="chem-punks" href="\factions\squads\chem-punks.html" class="internal-link" target="_self" rel="noopener nofollow">chem-punks</a>
-<br><a data-href="chompers" href="\chompers" class="internal-link" target="_self" rel="noopener nofollow">chompers</a>
-<br><a data-href="Iron Eruptors" href="\Iron Eruptors" class="internal-link" target="_self" rel="noopener nofollow">Iron Eruptors</a>
-<br><br><br>
-<br><a data-href="Units page#Rusty Nails leader units" href="\core\units-info\units-page.html#Rusty_Nails_leader_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Rusty Nails leader units</a>
-<br><a data-href="Units page#Rusty Nails medium units" href="\core\units-info\units-page.html#Rusty_Nails_medium_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Rusty Nails medium units</a>
-<br><a data-href="Units page#Rusty Nails small units" href="\core\units-info\units-page.html#Rusty_Nails_small_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Rusty Nails small units</a>
-<br><br><br>
-<br>[[]]
-<br><br>]]></description><link>factions\faction-list\rusty-nails.html</link><guid isPermaLink="false">factions/faction-list/Rusty Nails.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 26 Jan 2025 22:09:50 GMT</pubDate></item><item><title><![CDATA[Sons of Bellator]]></title><description><![CDATA[ 
- <br><br><br><br><br>group of mercenaries fighting for pride , being admired, colosseum champions , mechs wearing all sorts of decorations , in bronze color , the factions objective is planet domination 
-<br><br><br>
-<br><a data-href="milites-cerberi" href="\factions\squads\milites-cerberi.html" class="internal-link" target="_self" rel="noopener nofollow">milites-cerberi</a>
-<br><br><br>
-<br><a data-href="Units page#" href="\core\units-info\units-page.html#" class="internal-link" target="_self" rel="noopener nofollow">Units page</a>
-<br><a data-href="Units page#" href="\core\units-info\units-page.html#" class="internal-link" target="_self" rel="noopener nofollow">Units page</a>
-<br><a data-href="Units page#" href="\core\units-info\units-page.html#" class="internal-link" target="_self" rel="noopener nofollow">Units page</a>
-<br><br><br>
-<br>
-<br><br>]]></description><link>factions\faction-list\sons-of-bellator.html</link><guid isPermaLink="false">factions/faction-list/Sons of Bellator.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 26 Jan 2025 22:10:02 GMT</pubDate></item><item><title><![CDATA[Unity]]></title><description><![CDATA[ 
- <br><br><br><br><br>izolated nation seeking perfection , and order. overseeing every step behind the walls, only use of mechs is in battle and the army isnt using any pilots, they want to overtake the whole planet so they can control everything
-<br><br><br>
-<br><a data-href="I Valens" href="\factions\squads\i-valens.html" class="internal-link" target="_self" rel="noopener nofollow">I Valens</a>
-<br><a data-href="X Perpetuum" href="\X Perpetuum" class="internal-link" target="_self" rel="noopener nofollow">X Perpetuum</a>
-<br><a data-href="XXIV Tersus" href="\XXIV Tersus" class="internal-link" target="_self" rel="noopener nofollow">XXIV Tersus</a>
-<br><br><br>
-<br><a data-href="Units page#Unity leader units" href="\core\units-info\units-page.html#Unity_leader_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Unity leader units</a>
-<br><a data-href="Units page#Unity medium units" href="\core\units-info\units-page.html#Unity_medium_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Unity medium units</a>
-<br><a data-href="Units page#Unity small units" href="\core\units-info\units-page.html#Unity_small_units" class="internal-link" target="_self" rel="noopener nofollow">Units page &gt; Unity small units</a>
-<br><br><br>
-<br><a data-href="overclocking mechanic" href="\factions\faction-gimmicks\overclocking-mechanic.html" class="internal-link" target="_self" rel="noopener nofollow">overclocking mechanic</a>
-<br><br>]]></description><link>factions\faction-list\unity.html</link><guid isPermaLink="false">factions/faction-list/Unity.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 26 Jan 2025 22:09:27 GMT</pubDate></item><item><title><![CDATA[chem-punks]]></title><description><![CDATA[ 
+]]></description><link>factions\faction-gimmicks\scavenger-economy.html</link><guid isPermaLink="false">factions/Faction gimmicks/scavenger economy.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:11:36 GMT</pubDate></item><item><title><![CDATA[chem-punks]]></title><description><![CDATA[ 
  <br><br><br>
 <br><a data-href="chemical instability" href="\factions\faction-gimmicks\chemical-instability.html" class="internal-link" target="_self" rel="noopener nofollow">chemical instability</a>
 ]]></description><link>factions\squads\chem-punks.html</link><guid isPermaLink="false">factions/squads/chem-punks.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:45 GMT</pubDate></item><item><title><![CDATA[I Valens]]></title><description><![CDATA[ 
@@ -174,24 +261,7 @@ Stealth &amp; Sabotage: Due to their rogue nature, Chemp Punks could excel in ra
 Addiction/Volatility Mechanic: The Chemp Punks could have a unique mechanic where the more they indulge in chemicals, the stronger they become in battle but also more volatile. This could lead to power surges or dangerous risks that require careful management.<br>
 
 
-<br><br>Let me know if you'd like any specific additions or changes to the lore!]]></description><link>lore\ai-help\ai-generated-lore-for-chem-punks.html</link><guid isPermaLink="false">lore/AI help/AI generated lore for chem-punks.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:45 GMT</pubDate></item><item><title><![CDATA[Lore Codex I]]></title><description><![CDATA[ 
- <br><br><br><br>
-<br>“pre-Mechanical stage” is not created yet. Click to create.
-<br><a data-href="world wars" href="\world wars" class="internal-link" target="_self" rel="noopener nofollow">world wars</a>
-<br><a data-href="land division" href="\land division" class="internal-link" target="_self" rel="noopener nofollow">land division</a>
-<br>planet rich in raw materials , minerals gasses and others<br>
-where multiple factions battle for land , or they just fight for status<br>
-before all the fighting and chaos ]]></description><link>lore\lore-codex-i.html</link><guid isPermaLink="false">lore/Lore Codex I.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 26 Jan 2025 22:31:46 GMT</pubDate></item><item><title><![CDATA[battle points]]></title><description><![CDATA[ 
- <br><br><br>	is a system that works as fuel for gameplay
-	that makes the game more complex and balanced.
-<br>
-<br>
-every mech has weapons and unique ability to make the mech individual. 
-
-<br>
-<a data-href="battle points" href="\rules\ingame-mechanics\battle-points.html" class="internal-link" target="_self" rel="noopener nofollow">battle points</a> depends on <a data-href="game-modes" href="\rules\preperations\game-modes.html" class="internal-link" target="_self" rel="noopener nofollow">game-modes</a> or player decision how to play the game.
-
-<br><br><br><br><br><br><br><br><br><br><br>]]></description><link>rules\ingame-mechanics\battle-points.html</link><guid isPermaLink="false">rules/ingame mechanics/battle points.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 00:55:07 GMT</pubDate></item><item><title><![CDATA[Fog of War]]></title><description><![CDATA[ 
+<br><br>Let me know if you'd like any specific additions or changes to the lore!]]></description><link>lore\ai-help\ai-generated-lore-for-chem-punks.html</link><guid isPermaLink="false">lore/AI help/AI generated lore for chem-punks.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 02:41:45 GMT</pubDate></item><item><title><![CDATA[Fog of War]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br>units outside line of sight remain hidden from the opponents units , and cannot be attacked.
 <br><br>
@@ -286,8 +356,7 @@ spend RP on:
 <br><br>
 <br>unused RP expires at the end of the game.
 <br>if used in some sort of campaign they can be saved.
-]]></description><link>rules\ingame-mechanics\resource-points.html</link><guid isPermaLink="false">rules/ingame mechanics/Resource Points.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 00:54:53 GMT</pubDate></item><item><title><![CDATA[Squad rules]]></title><description><![CDATA[ 
- <br><br><br><br>squad rules are great cog wheel for players that enjoy hording units and using them for battle]]></description><link>rules\ingame-mechanics\squad-rules.html</link><guid isPermaLink="false">rules/ingame mechanics/Squad rules.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Tue, 21 Jan 2025 16:27:49 GMT</pubDate></item><item><title><![CDATA[Veterancy System]]></title><description><![CDATA[ 
+]]></description><link>rules\ingame-mechanics\resource-points.html</link><guid isPermaLink="false">rules/ingame mechanics/Resource Points.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 00:54:53 GMT</pubDate></item><item><title><![CDATA[Veterancy System]]></title><description><![CDATA[ 
  <br><br><br>
 <br>units gain experience after surviving battles.
 <br>after killing specific number of units.
@@ -317,14 +386,7 @@ you can choose of these three army size presets that are balanced for base game 
  <br><br><br>gamemode adds complexity for the players experience and spits some fun mechanics player can use in the battle to have more enjoyment 
 <br><br>]]></description><link>rules\preperations\game-modes.html</link><guid isPermaLink="false">rules/preperations/game-modes.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 00:54:37 GMT</pubDate></item><item><title><![CDATA[map creation]]></title><description><![CDATA[ 
  <br><br><br>split the map into 2 half's<br>
-in the center line and subtract 10 cm in both ways<br>place few objects on the map <br>and tis finished]]></description><link>rules\preperations\map-creation.html</link><guid isPermaLink="false">rules/preperations/map creation.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 00:54:34 GMT</pubDate></item><item><title><![CDATA[sizing]]></title><description><![CDATA[ 
- <br><br><br>
-<br>simple guide for unit sizing for more easy additions
-<br>ratio for sizing is 1/56 
-<br><br>]]></description><link>rules\preperations\sizing.html</link><guid isPermaLink="false">rules/preperations/sizing.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 26 Jan 2025 22:10:09 GMT</pubDate></item><item><title><![CDATA[unit Categories]]></title><description><![CDATA[ 
- <br><br><br>info
-Contents
-<br>]]></description><link>rules\preperations\unit-categories.html</link><guid isPermaLink="false">rules/preperations/unit Categories.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 00:52:29 GMT</pubDate></item><item><title><![CDATA[{{title}}]]></title><description><![CDATA[ 
+in the center line and subtract 10 cm in both ways<br>place few objects on the map <br>and tis finished]]></description><link>rules\preperations\map-creation.html</link><guid isPermaLink="false">rules/preperations/map creation.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 19 Jan 2025 00:54:34 GMT</pubDate></item><item><title><![CDATA[{{title}}]]></title><description><![CDATA[ 
  <br><br><br><br>]]></description><link>templates\base-board-template.html</link><guid isPermaLink="false">templates/Base board Template.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:10:01 GMT</pubDate></item><item><title><![CDATA[{{title}}]]></title><description><![CDATA[ 
  <br><br><br><br><br>
 <br>x
@@ -338,61 +400,4 @@ Contents
 Largest Column: standard
 <br>name : <br>--- column-break ---<br>image here<br>--- end-multi-column<br>--- start-multi-column: ID_xy0g<br>Number of Columns: 4
 Largest Column: standard
-<br>weapons : <br>--- column-break ---<br>movement :<br>--- column-break ---<br>armor : <br>--- column-break ---<br>description :<br>--- end-multi-column]]></description><link>templates\base-stat-block-template.html</link><guid isPermaLink="false">templates/base stat block template.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:10:39 GMT</pubDate></item><item><title><![CDATA[░▒▓|<strong>Shattered front</strong>|▓▒░]]></title><description><![CDATA[ 
- <br><br>expandable tabletop war game 
-
-d6 Dice simplicity map objects mechs or tanks
-
-factions with different goals|ideals and unique playstyles main goal of this project to stand as foundation to open source modular tabletop game
-<br><br>.
-just a sprinkle of mechanics that moves the gameplay from bland to fun
-<br><br>
-<br><a data-href="army size + point" href="\rules\preperations\army-size-+-point.html" class="internal-link" target="_self" rel="noopener nofollow">army size + point</a>
-<br><a data-href="army assembly and positioning" href="\rules\preperations\army-assembly-and-positioning.html" class="internal-link" target="_self" rel="noopener nofollow">army assembly and positioning</a>
-<br><a data-href="Hit System" href="\rules\ingame-mechanics\hit-system.html" class="internal-link" target="_self" rel="noopener nofollow">Hit System</a>
-<br><a data-href="Move System" href="\rules\ingame-mechanics\move-system.html" class="internal-link" target="_self" rel="noopener nofollow">Move System</a>
-<br><a data-href="Squad rules" href="\rules\ingame-mechanics\squad-rules.html" class="internal-link" target="_self" rel="noopener nofollow">Squad rules</a>
-<br><a data-href="game-modes" href="\rules\preperations\game-modes.html" class="internal-link" target="_self" rel="noopener nofollow">game-modes</a>
-
-<br><a data-href="battle points" href="\rules\ingame-mechanics\battle-points.html" class="internal-link" target="_self" rel="noopener nofollow">battle points</a> // change this to energy // game modes can be created with it
-<br><a data-href="Resource Points" href="\rules\ingame-mechanics\resource-points.html" class="internal-link" target="_self" rel="noopener nofollow">Resource Points</a>
-<br><a data-href="Fog of War Mechanic" href="\rules\ingame-mechanics\fog-of-war-mechanic.html" class="internal-link" target="_self" rel="noopener nofollow">Fog of War Mechanic</a>
-<br><a data-href="Random Events" href="\rules\ingame-mechanics\random-events.html" class="internal-link" target="_self" rel="noopener nofollow">Random Events</a>
-<br><a data-href="Veterancy System" href="\rules\ingame-mechanics\veterancy-system.html" class="internal-link" target="_self" rel="noopener nofollow">Veterancy System</a>
-<br><a data-href="energy" href="\energy" class="internal-link" target="_self" rel="noopener nofollow">energy</a>
-
-
-<br><a data-href="How to play" href="\How to play" class="internal-link" target="_self" rel="noopener nofollow">How to play</a>
-<br><a data-href="Examples" href="\Examples" class="internal-link" target="_self" rel="noopener nofollow">Examples</a>
-<br><br>
-<br><a data-href="unit Categories" href="\rules\preperations\unit-categories.html" class="internal-link" target="_self" rel="noopener nofollow">unit Categories</a>
-<br><a data-href="sizing" href="\rules\preperations\sizing.html" class="internal-link" target="_self" rel="noopener nofollow">sizing</a>
-<br><br>.
-collection of all units and everything related to them
-<br>
-<br><a data-href="Units page" href="\core\units-info\units-page.html" class="internal-link" target="_self" rel="noopener nofollow">Units page</a>
-<br><a data-href="Ability Page" href="\core\abilities\ability-page.html" class="internal-link" target="_self" rel="noopener nofollow">Ability Page</a>
-<br><a data-href="Weapon Page" href="\core\weapons\weapon-page.html" class="internal-link" target="_self" rel="noopener nofollow">Weapon Page</a>
-<br><a data-href="Status Effect Page" href="\core\status-effets\status-effect-page.html" class="internal-link" target="_self" rel="noopener nofollow">Status Effect Page</a>
-<br><a data-href="Pilot Page" href="\core\pilots\pilot-page.html" class="internal-link" target="_self" rel="noopener nofollow">Pilot Page</a>
-<br><br>.
-for player to pick what style of units he really wants to play
-<br><br>izolated nation seeking perfection , and order. overseeing every step behind the walls, only use of mechs is in battle and the army isnt using any pilots, they want to overtake the whole planet so they can control everything
-<br><br>
-<br><a data-href="I Valens" href="\factions\squads\i-valens.html" class="internal-link" target="_self" rel="noopener nofollow">I Valens</a>
-<br><a data-href="X Perpetuum" href="\X Perpetuum" class="internal-link" target="_self" rel="noopener nofollow">X Perpetuum</a>
-<br><a data-href="XXIV Tersus" href="\XXIV Tersus" class="internal-link" target="_self" rel="noopener nofollow">XXIV Tersus</a>
-<br><br>barbaric like post apocaliptic and agressive clan of skilled fighters in self made mechs or tanks covered in scap metals and any stolen technology they usually work in packs where they hunt for stolen goods and honor. winning wars means keeping people in peace
-<br><br>
-<br><a data-href="chem-punks" href="\factions\squads\chem-punks.html" class="internal-link" target="_self" rel="noopener nofollow">chem-punks</a>
-<br><a data-href="chompers" href="\chompers" class="internal-link" target="_self" rel="noopener nofollow">chompers</a>
-<br><a data-href="Iron Eruptors" href="\Iron Eruptors" class="internal-link" target="_self" rel="noopener nofollow">Iron Eruptors</a>
-<br><br>group of mercenaries fighting for pride , being admired, colosseum champions , mechs wearing all sorts of decorations , in bronze color , the factions objective is planet domination 
-<br><br>
-<br><a data-href="milites-cerberi" href="\factions\squads\milites-cerberi.html" class="internal-link" target="_self" rel="noopener nofollow">milites-cerberi</a>
-<br><br>.
-this is the messy chunks of text that should explain why things exist like that 
-<br><br>
-<br><a data-href="gun manufacturers" href="\gun manufacturers" class="internal-link" target="_self" rel="noopener nofollow">gun manufacturers</a>
-<br><a data-href="planet materials" href="\planet materials" class="internal-link" target="_self" rel="noopener nofollow">planet materials</a>
-]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Sun, 26 Jan 2025 22:38:24 GMT</pubDate></item></channel></rss>
+<br>weapons : <br>--- column-break ---<br>movement :<br>--- column-break ---<br>armor : <br>--- column-break ---<br>description :<br>--- end-multi-column]]></description><link>templates\base-stat-block-template.html</link><guid isPermaLink="false">templates/base stat block template.md</guid><dc:creator><![CDATA[krek]]></dc:creator><pubDate>Fri, 27 Dec 2024 18:10:39 GMT</pubDate></item></channel></rss>

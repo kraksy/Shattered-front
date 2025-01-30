@@ -1,6 +1,6 @@
 {
   "vaultName": "Shattered Front",
-  "lastExport": 1737931119495,
+  "lastExport": 1738225825750,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -43,8 +43,13 @@
     "factions/squads/milites-cerberi.md",
     "factions/Factions.md",
     "lore/AI help/AI generated lore for chem-punks.md",
+    "lore/pages/first states.md",
+    "lore/pages/pre-Mechanical stage.md",
+    "lore/pages/world wars.md",
     "lore/Lore Codex I.md",
-    "rules/ingame mechanics/battle points.md",
+    "rules/creating/sizing.md",
+    "rules/creating/unit Categories.md",
+    "rules/ingame mechanics/energy points.md",
     "rules/ingame mechanics/Fog of War Mechanic.md",
     "rules/ingame mechanics/Hit System.md",
     "rules/ingame mechanics/Move System.md",
@@ -56,8 +61,6 @@
     "rules/preperations/army size + point.md",
     "rules/preperations/game-modes.md",
     "rules/preperations/map creation.md",
-    "rules/preperations/sizing.md",
-    "rules/preperations/unit Categories.md",
     "templates/Base board Template.md",
     "templates/Base faction Template.md",
     "templates/Base Note Template.md",
@@ -153,31 +156,31 @@
       "dependencies": []
     },
     "core/gamemodes/Attack Defence.md": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 600,
       "exportedPath": "core/gamemodes/attack-defence.html",
       "dependencies": []
     },
     "core/gamemodes/Brawl.md": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 493,
       "exportedPath": "core/gamemodes/brawl.html",
       "dependencies": []
     },
     "core/gamemodes/Capture The Point.md": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 593,
       "exportedPath": "core/gamemodes/capture-the-point.html",
       "dependencies": []
     },
     "core/gamemodes/Escort Mission.md": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 695,
       "exportedPath": "core/gamemodes/escort-mission.html",
       "dependencies": []
     },
     "core/gamemodes/King of the Hill.md": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 489,
       "exportedPath": "core/gamemodes/king-of-the-hill.html",
       "dependencies": []
@@ -189,8 +192,8 @@
       "dependencies": []
     },
     "core/mechs/list/autocannon Mech.md": {
-      "modifiedTime": 1737931119495,
-      "sourceSize": 383,
+      "modifiedTime": 1738225825750,
+      "sourceSize": 41,
       "exportedPath": "core/mechs/list/autocannon-mech.html",
       "dependencies": []
     },
@@ -243,7 +246,7 @@
       "dependencies": []
     },
     "core/units info/Units page.md": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 3116,
       "exportedPath": "core/units-info/units-page.html",
       "dependencies": []
@@ -273,7 +276,7 @@
       "dependencies": []
     },
     "core/weapons/Weapon Page.md": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 2126,
       "exportedPath": "core/weapons/weapon-page.html",
       "dependencies": []
@@ -303,19 +306,19 @@
       "dependencies": []
     },
     "factions/faction-list/Rusty Nails.md": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 356,
       "exportedPath": "factions/faction-list/rusty-nails.html",
       "dependencies": []
     },
     "factions/faction-list/Sons of Bellator.md": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 255,
       "exportedPath": "factions/faction-list/sons-of-bellator.html",
       "dependencies": []
     },
     "factions/faction-list/Unity.md": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 353,
       "exportedPath": "factions/faction-list/unity.html",
       "dependencies": []
@@ -351,15 +354,9 @@
       "dependencies": []
     },
     "lore/Lore Codex I.md": {
-      "modifiedTime": 1737931119495,
-      "sourceSize": 289,
+      "modifiedTime": 1738225825750,
+      "sourceSize": 945,
       "exportedPath": "lore/lore-codex-i.html",
-      "dependencies": []
-    },
-    "rules/ingame mechanics/battle points.md": {
-      "modifiedTime": 1737931119495,
-      "sourceSize": 1753,
-      "exportedPath": "rules/ingame-mechanics/battle-points.html",
       "dependencies": []
     },
     "rules/ingame mechanics/Fog of War Mechanic.md": {
@@ -393,7 +390,7 @@
       "dependencies": []
     },
     "rules/ingame mechanics/Squad rules.md": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 141,
       "exportedPath": "rules/ingame-mechanics/squad-rules.html",
       "dependencies": []
@@ -428,18 +425,6 @@
       "exportedPath": "rules/preperations/map-creation.html",
       "dependencies": []
     },
-    "rules/preperations/sizing.md": {
-      "modifiedTime": 1737931119495,
-      "sourceSize": 492,
-      "exportedPath": "rules/preperations/sizing.html",
-      "dependencies": []
-    },
-    "rules/preperations/unit Categories.md": {
-      "modifiedTime": 1737931119495,
-      "sourceSize": 237,
-      "exportedPath": "rules/preperations/unit-categories.html",
-      "dependencies": []
-    },
     "templates/Base board Template.md": {
       "modifiedTime": 1737931119495,
       "sourceSize": 86,
@@ -471,189 +456,225 @@
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1737931119495,
-      "sourceSize": 2389,
+      "modifiedTime": 1738225825750,
+      "sourceSize": 2311,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1737931119495,
-      "sourceSize": 66418,
+      "modifiedTime": 1738225825750,
+      "sourceSize": 70677,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1737931119495,
-      "sourceSize": 4903,
+      "modifiedTime": 1738225825750,
+      "sourceSize": 5123,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1737931119495,
-      "sourceSize": 131018,
+      "modifiedTime": 1738225825750,
+      "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 1911,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 440,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1737931119495,
+      "modifiedTime": 1738225825750,
       "sourceSize": 39,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "lore/pages/first states.md": {
+      "modifiedTime": 1738225825750,
+      "sourceSize": 0,
+      "exportedPath": "lore/pages/first-states.html",
+      "dependencies": []
+    },
+    "lore/pages/pre-Mechanical stage.md": {
+      "modifiedTime": 1738225825750,
+      "sourceSize": 751,
+      "exportedPath": "lore/pages/pre-mechanical-stage.html",
+      "dependencies": []
+    },
+    "lore/pages/world wars.md": {
+      "modifiedTime": 1738225825750,
+      "sourceSize": 199,
+      "exportedPath": "lore/pages/world-wars.html",
+      "dependencies": []
+    },
+    "rules/creating/sizing.md": {
+      "modifiedTime": 1738225825750,
+      "sourceSize": 492,
+      "exportedPath": "rules/creating/sizing.html",
+      "dependencies": []
+    },
+    "rules/creating/unit Categories.md": {
+      "modifiedTime": 1738225825750,
+      "sourceSize": 237,
+      "exportedPath": "rules/creating/unit-categories.html",
+      "dependencies": []
+    },
+    "rules/ingame mechanics/energy points.md": {
+      "modifiedTime": 1738225825750,
+      "sourceSize": 1875,
+      "exportedPath": "rules/ingame-mechanics/energy-points.html",
       "dependencies": []
     }
   }

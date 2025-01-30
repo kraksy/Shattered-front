@@ -5,15 +5,15 @@ tags:
 ---
 # Lore Codex I
 
+```
+dates and names are rough sketches and can or will be changed any other time
+```
+
+---
 # timeline
+- ![[first states]]
 - ![[pre-Mechanical stage]]
-- [[world wars]]
-- [[land division]]
-
-
-
-
-
+- ![[world wars]]
 
 planet rich in raw materials , minerals gasses and others
 

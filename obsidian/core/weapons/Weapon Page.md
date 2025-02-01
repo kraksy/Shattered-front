@@ -3,8 +3,21 @@ tags:
   - Main-pages
 ---
 ---
-
 # **weapon list**
+
+```
+
+```
+
+---
+
+
+
+
+
+
+
+
 
 ### light weapons
 

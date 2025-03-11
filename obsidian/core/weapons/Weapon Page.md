@@ -4,17 +4,7 @@ tags:
 ---
 ---
 # **weapon list**
-
-```
-
-```
-
 ---
-
-
-
-
-
 
 
 
@@ -25,7 +15,7 @@ tags:
 | ----------------- | ----- | ------ | ---------------- | ------------------------------- |
 | [[pistol]]        | 20cm  | 1d6    | [[piercer]]      | ---                             |
 | [[healer pistol]] | 20cm  | 1d6    | [[healing shot]] | [[heal gas]] ( only on ability) |
-| [[pistol(gas)]]   | 10cm  | 1d6    | [[piercer]]      | [[gas]]                         |
+|                   | 10cm  | 1d6    | [[piercer]]      | [[gas]]                         |
 
 ### medium weapons
 

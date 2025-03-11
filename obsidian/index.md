@@ -7,7 +7,7 @@ aliases:
   - docs
 ---
 # ░▒▓|**Shattered front**|▓▒░
-
+---
 ```C
 expandable tabletop war game 
 
@@ -16,6 +16,7 @@ d6 Dice simplicity map objects mechs or tanks
 factions with different goals|ideals and unique playstyles main goal of this project to stand as foundation to open source modular tabletop game
 ```
 # ░▒▓|**Rule Set**|▓▒░
+---
 
 > [!danger] .
 > just a sprinkle of mechanics that moves the gameplay from bland to fun
@@ -23,21 +24,25 @@ factions with different goals|ideals and unique playstyles main goal of this pro
 
 - [[army size + point]]
 - [[army assembly and positioning]]
-- [[Hit System]]
-- [[Move System]]
+- [[phases of battle]]
+	- [[Hit System]]
+	- [[Move System]]
+	- [[ability system]]
 - [[Squad rules]]
 - [[game-modes]]
     - [[energy points]] 
     - [[Resource Points]]
     - [[Fog of War Mechanic]]
     - [[Random Events]]
-    - [[Veterancy System]]
+    - [[Veterancy System]]b 
 - [[How to play]]
 - [[Examples]]
-## ruleset for new units
+## rule-set for creation of new units
 
 - [[unit Categories]]
 - [[sizing]]
+- [[color palet choice]]
+
 # ░▒▓|**Path To Everything**|▓▒░
 
 > [!danger] .
@@ -60,7 +65,6 @@ izolated nation seeking perfection , and order. overseeing every step behind the
 ```
 
 ^b10690
-
 ### teams :
 
 - [[I Valens]]

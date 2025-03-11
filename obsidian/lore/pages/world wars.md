@@ -1,6 +1,7 @@
-battle for land is not just thing of the future
+---
+tags:
+---
+---
 
-after [[Walter Wade]]'s invention of first concept of engines and machinery it did not made appearance in use as quickly as somebody would think.
-
+After death of [[Walter Wade]] the need of automated machinery rises, 
  
-
